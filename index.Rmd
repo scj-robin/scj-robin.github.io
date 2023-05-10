@@ -1,0 +1,38 @@
+---
+title: "Stéphane Robin"
+output: 
+  html_document:
+   logo: images/EcranNoir.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+
+<img src="images/EcranNoir.png" alt="mpe" width = "280px" align="right"> </img>
+  
+  
+I am a researcher at  [INRAE](https://www.inrae.fr/) in the unity [MIA Paris](https://www6.inrae.fr/mia-paris). I am the head of the team [SOLsTIS](https://www6.inrae.fr/mia-paris/Equipes/SOLsTIS) (Statistical mOdelling and Learning for environnemenT and lIfe Sciences).  Our unity is located at [AgroParisTech](https://www.agroparistech.fr) in Paris for yet a few months. 
+
+
+I am specialized in the development of statistical earning methods for ecology and life sciences in general. I work with people from different background: statisticians, ecologists ...
+You will find more details on the Research section.
+  
+  
+ 
+  
+  
+## Contact information
+
+
+
+- <i class="fas fa-map-marker"></i> UMR MIA-Paris, AgroParisTech, INRAE, </br>
+  16 rue Claude Bernard, </br>
+  75005 Paris Cedex</br>
+  
+- <i class="fa fa-phone"></i> +33 (0)1 44 08 37 19
+
+- <i class="fa fa-at"></i> <a href="mailto:sophie.donnet@inrae.fr
+">sophie [dot] donnet  [at] inrae [dot] fr</a>
