@@ -2,7 +2,7 @@ name: "Stéphane Robin"
 output_dir: "."
 navbar:
   logo: images/Logotype-INRAE.jpg
-  title: 'Sophie Donnet'
+  title: 'Stéphane Robin'
   left:
   - text: "Biography"
     icon: fa-child
@@ -28,14 +28,14 @@ navbar:
     icon: fa-laptop
     menu:
       - text: "Bayesian Statistics"
-        href: bayesian_stat.html
+        href: xxx.html
       - text: "Master MathSV"
-        href: master_math_SV.html
+        href: xxx.html
              
   right:
   - text: "Github"
     icon: fab fa-github
-    href: https://github.com/Sophiedonnet
+    href: https://github.com/scj-robin
 
 output:
   html_document:

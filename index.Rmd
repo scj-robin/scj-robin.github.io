@@ -14,25 +14,17 @@ output:
 <img src="images/EcranNoir.png" alt="mpe" width = "280px" align="right"> </img>
   
   
-I am a researcher at  [INRAE](https://www.inrae.fr/) in the unity [MIA Paris](https://www6.inrae.fr/mia-paris). I am the head of the team [SOLsTIS](https://www6.inrae.fr/mia-paris/Equipes/SOLsTIS) (Statistical mOdelling and Learning for environnemenT and lIfe Sciences).  Our unity is located at [AgroParisTech](https://www.agroparistech.fr) in Paris for yet a few months. 
+I am a professor at  [Sorbonne Université](https://www.sorbonne-universite.fr/), in the [Laboratoire de Probabilités, Statistique et Modélisation (LPSM)](https://www.lpsm.paris)
 
-
-I am specialized in the development of statistical earning methods for ecology and life sciences in general. I work with people from different background: statisticians, ecologists ...
-You will find more details on the Research section.
-  
-  
- 
-  
+I am specialized in 
   
 ## Contact information
 
-
-
-- <i class="fas fa-map-marker"></i> UMR MIA-Paris, AgroParisTech, INRAE, </br>
-  16 rue Claude Bernard, </br>
-  75005 Paris Cedex</br>
+- <i class="fas fa-map-marker"></i> LPSM, Sorbonne Université, CNRS, </br>
+  4, place Jussieu, </br>
+  Paris 5</br>
   
-- <i class="fa fa-phone"></i> +33 (0)1 44 08 37 19
+- <i class="fa fa-phone"></i> +33 (0)1 xx xx xx xx
 
-- <i class="fa fa-at"></i> <a href="mailto:sophie.donnet@inrae.fr
-">sophie [dot] donnet  [at] inrae [dot] fr</a>
+- <i class="fa fa-at"></i> <a href="mailto:stephane.robin@sorbonne-universite.fr
+">stephane [dot] robin  [at] sorbonne-universite [dot] fr</a>
