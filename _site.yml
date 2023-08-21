@@ -7,10 +7,6 @@ navbar:
   - text: "Research "
     icon: fa-chart-area
     menu:
-      - text: "Research interests"
-        icon: fa-flask
-        href: research.html
-
       - text: "Publications"
         href: publications.html
         icon: fa-file-text-o
@@ -23,7 +19,7 @@ navbar:
     icon: fa-laptop
     menu:
       - text: "Latent variable models"
-        href: latent-variables-ecology.html
+        href: latent-variables.html
              
 output:
   html_document:
