@@ -20,11 +20,11 @@ I am specialized in statistics, especially latent variable models, network model
 
 #### Contact
 
-- <i class="fas fa-map-marker"></i> LPSM, Sorbonne Université, </br>
+<i class="fas fa-map-marker"></i> LPSM, Sorbonne Université, </br>
   4, place Jussieu, Paris 5, France, </br>
   Office 15-25, 221 <\br>
 <!--- - <i class="fa fa-phone"></i> +33 (0)1 xx xx xx xx --->
-- <i class="fa fa-at"></i> <a href="mailto:stephane.robin@sorbonne-universite.fr
+<i class="fa fa-at"></i> <a href="mailto:stephane.robin@sorbonne-universite.fr
 ">stephane [dot] robin [at] sorbonne [hyphen] universite [dot] fr</a>
 
 # Research
