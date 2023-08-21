@@ -13,7 +13,7 @@ output:
 
 <br>
 
-## Four lectures at the SanDAL Winter School on Mathematical Statistics, University of Luxembourg (Dec’20)
+## Four lectures at the SanDAL Winter Schol on Mathematical Statistics, University of Luxembourg (Dec’20)
 
 Statistical inference of incomplete data models to analyse ecological networks:
 
