@@ -37,15 +37,30 @@ I am specialized in statistics, especially latent variable models, network model
 
 ### Published articles
 
+Recent papers: </br>
+- Ouadah, S., Latouche, P., & Robin, S. (2022). *Motif-based tests for bipartite networks*. Electronic Journal of Statistics, 16(1), 293-330. </br>
+- Morlon, H., Robin, S., & Hartig, F. (2022). *Studying speciation and extinction dynamics from phylogenies: addressing identifiability issues*. Trends in Ecology & Evolution. </br>
+- Momal, R., Robin, S., & Ambroise, C. (2021). *Accounting for missing actors in interaction network inference from abundance data*. Journal of the Royal Statistical Society Series C: Applied Statistics, 70(5), 1230-1258.
+- Donnet, S., & Robin, S. (2021). *Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates*. Journal of the Royal Statistical Society Series C: Applied Statistics, 70(4), 858-885. </br>
+- Chiquet, J., Mariadassou, M., & Robin, S. (2021). *The Poisson-lognormal model as a versatile framework for the joint analysis of species abundances*. Frontiers in Ecology and Evolution, 9, 588292. </br>
+- Facon, B., Hafsi, A., Charlery De La Masseliere, M., Robin, S., Massol, F., Dubart, M., ... & Ravigné, V. (2021). *Joint species distributions reveal the combined effects of host plants, abiotic factors and species competition as drivers of species abundances in fruit flies*. Ecology Letters, 24(9), 1905-1916.
+
 A comprehensive list is available on  [Google Scholar](https://scholar.google.fr/citations?user=7fBfsj0AAAAJ&hl=fr&authuser=1)
 
 ### Some recent talks
 
-- *SMC sampling from deterministic approximations: Application to the Poisson stochastic block-model*. [CMStatistics, London (Dec'22)](slides/London-2212.pdf). </br>
-- *Change-point detection in a Poisson process*. ["Statistiques au sommet", Rochebrune (Mar'22)](slides/Rochebrune-2203.pdf). </br>
-- *An exchangeable model for (ecological) bipartite network*. [ESSEC statistical seminar (Mar'22)](slides/ESSEC-2203.pdf)
+- [SMC sampling from deterministic approximations: Application to the Poisson stochastic block-model](slides/London-2212.pdf), CMStatistics, London (Dec'22). </br>
+- [Change-point detection in a Poisson process](slides/Rochebrune-2203.pdf), "Statistiques au sommet", Rochebrune (Mar'22). </br>
+- [An exchangeable model for (ecological) bipartite network](slides/ESSEC-2203.pdf), ESSEC statistical seminar (Mar'22).
 
-<br>
+### R packages
+
+I have been a (very minor) contributor to the following R packages: </br>
+- [PLNmodels](https://cran.r-project.org/web/packages/PLNmodels/index.html): Poisson Lognormal Models </br>
+- [RGMM](https://cran.r-project.org/web/packages/RGMM/index.html): Robust Mixture Model <br>
+- [qch](https://cran.r-project.org/web/packages/qch/index.html): Query Composed Hypotheses </br>
+- [CptPointProcess](https://github.com/Elebarbier/CptPointProcess): Change Point Detection for Point Processes
+
 
 # Teaching
 
