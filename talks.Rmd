@@ -17,3 +17,6 @@ output:
 
 "Statistiques au sommet", Rochebrune: [slides](slides/Rochebrune-2203.pdf)
 
+## An exchangeable model for (ecological) bipartite network (Mar'22)
+
+ESSEC: [slides](slides/ESSEC-2203.pdf)
