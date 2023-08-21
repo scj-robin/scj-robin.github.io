@@ -16,7 +16,9 @@ output:
   
 I am a professor at [Sorbonne Université](https://www.sorbonne-universite.fr/), in the [Laboratoire de Probabilités, Statistique et Modélisation (LPSM)](https://www.lpsm.paris)
 
-I am specialized in statistics, especially latent variable models, network models and change-point detection, and their applications in life sciences, mostly in ecology
+I am specialized in statistics, especially latent variable models, network models and change-point detection, and their applications in life sciences, formerly in genomics and genetics and now mostly in ecology
+
+<br>
 
 ## Contact information
 
