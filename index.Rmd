@@ -18,11 +18,12 @@ I am a professor at [Sorbonne Université](https://www.sorbonne-universite.fr/),
 
 I am specialized in statistics, especially latent variable models, network models and change-point detection, and their applications in life sciences, formerly in genomics and genetics and now mostly in ecology
 
-#### Contact
+### Contact
 
-<i class="fas fa-map-marker"></i> LPSM, Sorbonne Université, 4, place Jussieu, Paris 5, France (Office 15-25, 221) </br>
+- <i class="fas fa-map-marker"></i> LPSM, Sorbonne Université, 4, place Jussieu, Paris 5, France (Office 15-25, 221) 
 <!--- - <i class="fa fa-phone"></i> +33 (0)1 xx xx xx xx --->
-<i class="fa fa-at"></i> <a href="mailto:stephane.robin@sorbonne-universite.fr
+
+- <i class="fa fa-at"></i> <a href="mailto:stephane.robin@sorbonne-universite.fr
 ">stephane [dot] robin [at] sorbonne [hyphen] universite [dot] fr</a>
 
 <br>
