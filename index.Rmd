@@ -25,6 +25,8 @@ I am specialized in statistics, especially latent variable models, network model
 <i class="fa fa-at"></i> <a href="mailto:stephane.robin@sorbonne-universite.fr
 ">stephane [dot] robin [at] sorbonne [hyphen] universite [dot] fr</a>
 
+<br>
+
 # Research
 
 ### Submitted papers
@@ -45,9 +47,9 @@ A comprehensive list is available on  [Google Scholar](https://scholar.google.fr
 
 <br>
 
-# Teachings 
+# Teaching
 
-### Statistical inference for latente variable models
+### Statistical inference for latent variable models
 
 - *Statistical inference of incomplete data models to analyse ecological networks* : four lectures at the SanDAL Winter School on Mathematical Statistics, University of Luxembourg (Dec’20) </br>
   1 - [Models with latent variables in ecology](slides/Part10-Main-Lux2012.pdf) </br>
