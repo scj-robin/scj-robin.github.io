@@ -1,42 +1,30 @@
 name: "Stéphane Robin"
 output_dir: "."
 navbar:
-  logo: images/Logotype-INRAE.jpg
+  logo: images/LogoSULPSM.png
   title: 'Stéphane Robin'
   left:
-  - text: "Biography"
-    icon: fa-child
-    href: biography.html
   - text: "Research "
     icon: fa-chart-area
     menu:
       - text: "Research interests"
         icon: fa-flask
         href: research.html
+
       - text: "Publications"
         href: publications.html
         icon: fa-file-text-o
-      - text: "Talks"
+
+      - text: "Some talks"
         href: talks.html
         icon: fa-comment-o 
-      - text: "Students"
-        href: students.html
-        icon: fa-graduation-cap 
-      
-        
+
   - text: "Teaching"
     icon: fa-laptop
     menu:
-      - text: "Bayesian Statistics"
-        href: xxx.html
-      - text: "Master MathSV"
-        href: xxx.html
+      - text: "Latent variable models in ecology"
+        href: latent-variables-ecology.html
              
-  right:
-  - text: "Github"
-    icon: fab fa-github
-    href: https://github.com/scj-robin
-
 output:
   html_document:
     theme: cosmo

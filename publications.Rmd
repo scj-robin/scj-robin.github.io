@@ -3,7 +3,7 @@ title: "Publications"
 output: 
   html_document:
    toc: false
-   logo: images/LogoLPSM.jpg
+   logo: images/LogoSULPSM.png
    number_sections: false
    highlight: tango
    css: style.css
@@ -13,12 +13,10 @@ output:
 
 <br>
 
-<br>
-
 ## Submitted papers
 
 <br>
 
-## Published or accepted articles
+## Published articles
 
-A list is available [here](https://scholar.google.fr/citations?user=7fBfsj0AAAAJ&hl=fr&authuser=1)
+A comprehensive list is available [there](https://scholar.google.fr/citations?user=7fBfsj0AAAAJ&hl=fr&authuser=1)

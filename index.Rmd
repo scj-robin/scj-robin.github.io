@@ -2,7 +2,7 @@
 title: "Stéphane Robin"
 output: 
   html_document:
-   logo: images/LogoSorbonneUniversite.png
+   logo: images/LogoSULPSM.png
    number_sections: false
    highlight: tango
    css: style.css
@@ -10,12 +10,13 @@ output:
      before_body: extlogo.html
 ---
 
+<br>
 
-<img src="images/LogoLPSM.png" alt="mpe" width = "280px" align="right"> </img>
+<img src="images/PhotoSR.png" alt="mpe" width = "100px" align="right"> </img>
   
-I am a professor at  [Sorbonne Université](https://www.sorbonne-universite.fr/), in the [Laboratoire de Probabilités, Statistique et Modélisation (LPSM)](https://www.lpsm.paris)
+I am a professor at [Sorbonne Université](https://www.sorbonne-universite.fr/), in the [Laboratoire de Probabilités, Statistique et Modélisation (LPSM)](https://www.lpsm.paris)
 
-I am specialized in statistics, especially latent variable models, network models and change-point detection, and their applications in life siences, mostly in ecology
+I am specialized in statistics, especially latent variable models, network models and change-point detection, and their applications in life sciences, mostly in ecology
   
 ## Contact information
 
