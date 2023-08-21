@@ -1,5 +1,5 @@
 ---
-title: "Some talks"
+title: "Some recent talks"
 output: 
   html_document:
    toc: false
@@ -13,14 +13,14 @@ output:
 
 <br>
 
-## SMC sampling from deterministic approximations: Application to the Poisson stochastic block-model (Dec'22)
+### SMC sampling from deterministic approximations: Application to the Poisson stochastic block-model (Dec'22)
 
 CMStatistics, London: [slides](slides/London-2212.pdf)
 
-## Change-point detection in a Poisson process (Mar'22)
+### Change-point detection in a Poisson process (Mar'22)
 
 "Statistiques au sommet", Rochebrune: [slides](slides/Rochebrune-2203.pdf)
 
-## An exchangeable model for (ecological) bipartite network (Mar'22)
+### An exchangeable model for (ecological) bipartite network (Mar'22)
 
 ESSEC statistical seminar: [slides](slides/ESSEC-2203.pdf)

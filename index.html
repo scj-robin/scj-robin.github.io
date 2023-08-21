@@ -30,8 +30,6 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -82,80 +80,6 @@ pre code {
 </style>
 
 
-<style type="text/css">
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #adb5bd;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
-}
-</style>
-
-<script type="text/javascript">
-// manage active state of menu based on current page
-$(document).ready(function () {
-  // active menu anchor
-  href = window.location.pathname
-  href = href.substr(href.lastIndexOf('/') + 1)
-  if (href === "")
-    href = "index.html";
-  var menuAnchor = $('a[href="' + href + '"]');
-
-  // mark the anchor link active (and if it's in a dropdown, also mark that active)
-  var dropdown = menuAnchor.closest('li.dropdown');
-  if (window.bootstrap) { // Bootstrap 4+
-    menuAnchor.addClass('active');
-    dropdown.find('> .dropdown-toggle').addClass('active');
-  } else { // Bootstrap 3
-    menuAnchor.parent().addClass('active');
-    dropdown.addClass('active');
-  }
-
-  // Navbar adjustments
-  var navHeight = $(".navbar").first().height() + 15;
-  var style = document.createElement('style');
-  var pt = "padding-top: " + navHeight + "px; ";
-  var mt = "margin-top: -" + navHeight + "px; ";
-  var css = "";
-  // offset scroll position for anchor links (for fixed navbar)
-  for (var i = 1; i <= 6; i++) {
-    css += ".section h" + i + "{ " + pt + mt + "}\n";
-  }
-  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
-  document.head.appendChild(style);
-});
-</script>
 
 <!-- tabsets -->
 
@@ -220,65 +144,6 @@ $(document).ready(function () {
 
 
 
-
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="index.html">Stéphane Robin</a>
-    </div>
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    <span class="fa fa-chart-area"></span>
-     
-    Research 
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="publications.html">
-        <span class="fa fa-file-text-o"></span>
-         
-        Publications
-      </a>
-    </li>
-    <li>
-      <a href="talks.html">
-        <span class="fa fa-comment-o"></span>
-         
-        Some talks
-      </a>
-    </li>
-  </ul>
-</li>
-<li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    <span class="fa fa-laptop"></span>
-     
-    Teaching
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="latent-variables.html">Latent variable models</a>
-    </li>
-  </ul>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div><!--/.container -->
-</div><!--/.navbar -->
 <div class="logos"><img src="images/LogoSULPSM.png" width="250px" align="right"></div>
 
 <div id="header">
@@ -302,8 +167,8 @@ network models and change-point detection, and their applications in
 life sciences, formerly in genomics and genetics and now mostly in
 ecology</p>
 <p><br></p>
-<div id="contact-information" class="section level2">
-<h2>Contact information</h2>
+<div id="contact-information" class="section level3">
+<h3>Contact information</h3>
 <ul>
 <li><p><i class="fas fa-map-marker"></i> LPSM, Sorbonne Université,
 </br> Office 15-25, 221, </br> 4, place Jussieu, Paris 5,
@@ -314,6 +179,73 @@ France</p></li>
 ">stephane [dot] robin [at] sorbonne [hyphen] universite [dot]
 fr</a></p></li>
 </ul>
+</div>
+<div id="research" class="section level1">
+<h1>Research</h1>
+<div id="submitted-papers" class="section level3">
+<h3>Submitted papers</h3>
+<ul>
+<li><p>Dion-Blanc, C., Lebarbier, E., &amp; Robin, S. (2023). Multiple
+change-point detection for Poisson processes. <a
+href="https://arxiv.org/pdf/2302.09103">arXiv:2302.09103</a>.</p></li>
+<li><p>Cairo, M., Monnet, A. C., Robin, S., Porcher, E., &amp; Fontaine,
+C. (2023). Identifying pesticide mixtures at country-wide scale. <a
+href="https://hal.science/hal-03815557v2/file/Cairo%20et%20al.%20Identifying%20pesticide%20mixtures%20at%20country-wide%20scale.pdf">HAL-03815557</a>.</p></li>
+<li><p>Godichon-Baggioni, A., &amp; Robin, S. (2022). A robust
+model-based clustering based on the geometric median and the Median
+Covariation Matrix. <a
+href="https://arxiv.org/pdf/2302.09103">arXiv:2211.08131</a>.</p></li>
+</ul>
+</div>
+<div id="published-articles" class="section level3">
+<h3>Published articles</h3>
+<p>A comprehensive list is available on <a
+href="https://scholar.google.fr/citations?user=7fBfsj0AAAAJ&amp;hl=fr&amp;authuser=1">Google
+Scholar</a></p>
+</div>
+<div id="some-recent-talks" class="section level3">
+<h3>Some recent talks</h3>
+<ul>
+<li><p>SMC sampling from deterministic approximations: Application to
+the Poisson stochastic block-model. <a
+href="slides/London-2212.pdf">CMStatistics, London
+(Dec’22)</a>.</p></li>
+<li><p>Change-point detection in a Poisson process. <a
+href="slides/Rochebrune-2203.pdf">“Statistiques au sommet”, Rochebrune
+(Mar’22)</a>.</p></li>
+<li><p>An exchangeable model for (ecological) bipartite network. <a
+href="slides/ESSEC-2203.pdf">ESSEC statistical seminar
+(Mar’22)</a></p></li>
+</ul>
+<p><br></p>
+</div>
+</div>
+<div id="teachings" class="section level1">
+<h1>Teachings</h1>
+<div
+id="statistical-inference-of-incomplete-data-models-to-analyse-ecological-networks"
+class="section level3">
+<h3>Statistical inference of incomplete data models to analyse
+ecological networks</h3>
+<p>Four lectures at the SanDAL Winter School on Mathematical Statistics,
+University of Luxembourg (Dec’20):</p>
+<p>1 - <a href="slides/Part10-Main-Lux2012.pdf">Models with latent
+variables in ecology</a></p>
+<p>2 - <a href="slides/Part20-Main-Lux2012.pdf">Statistical inference of
+incomplete data models</a></p>
+<p>3 - <a href="slides/Part30-Main-Lux2012.pdf">Variational inference
+for species abundances and network models</a></p>
+<p>4 - <a href="slides/Part40-Main-Lux2012.pdf">Beyond variational
+inference</a></p>
+</div>
+<div id="statistical-inference-for-latente-variable-models"
+class="section level3">
+<h3>Statistical inference for latente variable models</h3>
+<p>Lecture notes for the Master 2 “Mathématiques pour les sciences du
+vivant”, université Paris-Saclay (Jan’20):</p>
+<p><a href="notes/ModelsHiddenStruct-Biology-29jan21.pdf">Models with
+Hidden Structure</a> (with applications in genomics and ecology)</p>
+</div>
 </div>
 
 
