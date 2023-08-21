@@ -13,5 +13,20 @@ output:
 
 <br>
 
-## ... In Progress ...
+## Change-point detection in a Poisson process (Mar'22)
 
+"Statistiques au sommet", Rochebrune: [slides](slides/Rochebrune-2203.pdf)
+
+<br>
+
+## Statistical inference of incomplete data models to analyse ecological networks (Dec’20)
+
+Four lectures at the SanDAL Winter School on Mathematical Statistics, University of Luxembourg:
+
+  1 - [Models with latent variables in ecology](slides/Part10-Main-Lux2012.pdf)
+  
+  2 - [Statistical inference of incomplete data models](slides/Part20-Main-Lux2012.pdf)
+  
+  3 - [Variational inference for species abundances and network models](slides/Part30-Main-Lux2012.pdf)
+
+  4 - [Beyond variational inference](slides/Part40-Main-Lux2012.pdf)
