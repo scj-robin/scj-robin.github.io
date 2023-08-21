@@ -22,7 +22,7 @@ navbar:
   - text: "Teaching"
     icon: fa-laptop
     menu:
-      - text: "Latent variable models in ecology"
+      - text: "Latent variable models"
         href: latent-variables-ecology.html
              
 output:

@@ -1,0 +1,32 @@
+---
+title: "Latent variable models"
+output: 
+  html_document:
+   toc: false
+   logo: images/LogoSULPSM.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br>
+
+## Four lectures at the SanDAL Winter School on Mathematical Statistics, University of Luxembourg (Dec’20)
+
+Statistical inference of incomplete data models to analyse ecological networks:
+
+  1 - [Models with latent variables in ecology](slides/Part10-Main-Lux2012.pdf)
+  
+  2 - [Statistical inference of incomplete data models](slides/Part20-Main-Lux2012.pdf)
+  
+  3 - [Variational inference for species abundances and network models](slides/Part30-Main-Lux2012.pdf)
+
+  4 - [Beyond variational inference](slides/Part40-Main-Lux2012.pdf)
+
+<br>
+
+## (Fairly old) lecture notes on statistical inference for latente variable models
+
+[Models with Hidden Structure](notes/ModelsHiddenStruct-Biology-29jan21.pdf) (with applications in genomics and ecology)
