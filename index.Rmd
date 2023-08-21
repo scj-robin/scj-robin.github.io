@@ -23,23 +23,21 @@ I am specialized in statistics, especially latent variable models, network model
 ### Contact information
 
 - <i class="fas fa-map-marker"></i> LPSM, Sorbonne Université, </br>
-  Office 15-25, 221, </br>
-  4, place Jussieu, Paris 5, France
+  4, place Jussieu, Paris 5, France, </br>
+  Office 15-25, 221
   
-- <i class="fa fa-phone"></i> +33 (0)1 xx xx xx xx
+<!--- - <i class="fa fa-phone"></i> +33 (0)1 xx xx xx xx --->
 
 - <i class="fa fa-at"></i> <a href="mailto:stephane.robin@sorbonne-universite.fr
 ">stephane [dot] robin [at] sorbonne [hyphen] universite [dot] fr</a>
 
 # Research
 
-### Submitted papers
+### Submitted papers [#publications]
 
-- Dion-Blanc, C., Lebarbier, E., & Robin, S. (2023). Multiple change-point detection for Poisson processes. [arXiv:2302.09103](https://arxiv.org/pdf/2302.09103).
-
-- Cairo, M., Monnet, A. C., Robin, S., Porcher, E., & Fontaine, C. (2023). Identifying pesticide mixtures at country-wide scale. [HAL-03815557](https://hal.science/hal-03815557v2/file/Cairo%20et%20al.%20Identifying%20pesticide%20mixtures%20at%20country-wide%20scale.pdf).
-
-- Godichon-Baggioni, A., & Robin, S. (2022). A robust model-based clustering based on the geometric median and the Median Covariation Matrix. [arXiv:2211.08131](https://arxiv.org/pdf/2302.09103).
+- Dion-Blanc, C., Lebarbier, E., & Robin, S. (2023). *Multiple change-point detection for Poisson processes*. [arXiv:2302.09103](https://arxiv.org/pdf/2302.09103). </br>
+- Cairo, M., Monnet, A. C., Robin, S., Porcher, E., & Fontaine, C. (2023). *Identifying pesticide mixtures at country-wide scale*. [HAL-03815557](https://hal.science/hal-03815557v2/file/Cairo%20et%20al.%20Identifying%20pesticide%20mixtures%20at%20country-wide%20scale.pdf). </br>
+- Godichon-Baggioni, A., & Robin, S. (2022). *A robust model-based clustering based on the geometric median and the Median Covariation Matrix*. [arXiv:2211.08131](https://arxiv.org/pdf/2302.09103).
 
 ### Published articles
 
@@ -47,30 +45,20 @@ A comprehensive list is available on  [Google Scholar](https://scholar.google.fr
 
 ### Some recent talks
 
-- SMC sampling from deterministic approximations: Application to the Poisson stochastic block-model. [CMStatistics, London (Dec'22)](slides/London-2212.pdf).
-
-- Change-point detection in a Poisson process. ["Statistiques au sommet", Rochebrune (Mar'22)](slides/Rochebrune-2203.pdf).
-
-- An exchangeable model for (ecological) bipartite network. [ESSEC statistical seminar (Mar'22)](slides/ESSEC-2203.pdf)
+- *SMC sampling from deterministic approximations: Application to the Poisson stochastic block-model*. [CMStatistics, London (Dec'22)](slides/London-2212.pdf). </br>
+- *Change-point detection in a Poisson process*. ["Statistiques au sommet", Rochebrune (Mar'22)](slides/Rochebrune-2203.pdf). </br>
+- *An exchangeable model for (ecological) bipartite network*. [ESSEC statistical seminar (Mar'22)](slides/ESSEC-2203.pdf)
 
 <br>
 
-# Teachings
-
-### Statistical inference of incomplete data models to analyse ecological networks
-
-Four lectures at the SanDAL Winter School on Mathematical Statistics, University of Luxembourg (Dec’20):
-
-  1 - [Models with latent variables in ecology](slides/Part10-Main-Lux2012.pdf)
-  
-  2 - [Statistical inference of incomplete data models](slides/Part20-Main-Lux2012.pdf)
-  
-  3 - [Variational inference for species abundances and network models](slides/Part30-Main-Lux2012.pdf)
-
-  4 - [Beyond variational inference](slides/Part40-Main-Lux2012.pdf)
+# Teachings [#teachings]
 
 ### Statistical inference for latente variable models
 
-Lecture notes for the Master 2 "Mathématiques pour les sciences du vivant", université Paris-Saclay (Jan'20): 
+- *Statistical inference of incomplete data models to analyse ecological networks* : four lectures at the SanDAL Winter School on Mathematical Statistics, University of Luxembourg (Dec’20) </br>
+  1 - [Models with latent variables in ecology](slides/Part10-Main-Lux2012.pdf) </br>
+  2 - [Statistical inference of incomplete data models](slides/Part20-Main-Lux2012.pdf) </br>
+  3 - [Variational inference for species abundances and network models](slides/Part30-Main-Lux2012.pdf) </br>
+  4 - [Beyond variational inference](slides/Part40-Main-Lux2012.pdf)
 
-[Models with Hidden Structure](notes/ModelsHiddenStruct-Biology-29jan21.pdf) (with applications in genomics and ecology)
+- [*Models with Hidden Structure*](notes/ModelsHiddenStruct-Biology-29jan21.pdf) (with applications in genomics and ecology): Lecture notes for the Master 2 "Mathématiques pour les sciences du vivant", université Paris-Saclay (Jan'20)
