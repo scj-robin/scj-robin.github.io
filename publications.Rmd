@@ -1,0 +1,24 @@
+---
+title: "Publications"
+output: 
+  html_document:
+   toc: false
+   logo: images/LogoLPSM.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br>
+
+<br>
+
+## Submitted papers
+
+<br>
+
+## Published or accepted articles
+
+A list is available [here](https://scholar.google.fr/citations?user=7fBfsj0AAAAJ&hl=fr&authuser=1)
