@@ -18,22 +18,18 @@ I am a professor at [Sorbonne Université](https://www.sorbonne-universite.fr/),
 
 I am specialized in statistics, especially latent variable models, network models and change-point detection, and their applications in life sciences, formerly in genomics and genetics and now mostly in ecology
 
-<br>
-
-### Contact information
+#### Contact
 
 - <i class="fas fa-map-marker"></i> LPSM, Sorbonne Université, </br>
   4, place Jussieu, Paris 5, France, </br>
-  Office 15-25, 221
-  
+  Office 15-25, 221 <\br>
 <!--- - <i class="fa fa-phone"></i> +33 (0)1 xx xx xx xx --->
-
 - <i class="fa fa-at"></i> <a href="mailto:stephane.robin@sorbonne-universite.fr
 ">stephane [dot] robin [at] sorbonne [hyphen] universite [dot] fr</a>
 
 # Research
 
-### Submitted papers [#publications]
+### Submitted papers
 
 - Dion-Blanc, C., Lebarbier, E., & Robin, S. (2023). *Multiple change-point detection for Poisson processes*. [arXiv:2302.09103](https://arxiv.org/pdf/2302.09103). </br>
 - Cairo, M., Monnet, A. C., Robin, S., Porcher, E., & Fontaine, C. (2023). *Identifying pesticide mixtures at country-wide scale*. [HAL-03815557](https://hal.science/hal-03815557v2/file/Cairo%20et%20al.%20Identifying%20pesticide%20mixtures%20at%20country-wide%20scale.pdf). </br>
@@ -51,7 +47,7 @@ A comprehensive list is available on  [Google Scholar](https://scholar.google.fr
 
 <br>
 
-# Teachings [#teachings]
+# Teachings 
 
 ### Statistical inference for latente variable models
 
