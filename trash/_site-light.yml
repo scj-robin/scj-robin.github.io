@@ -1,0 +1,7 @@
+name: "Stéphane Robin"
+output_dir: "."
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: haddock

@@ -1,0 +1,77 @@
+---
+title: "Stéphane Robin"
+output: 
+  html_document:
+   logo: images/LogoSULPSM.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br>
+
+<img src="images/PhotoSR.png" alt="mpe" width = "100px" align="right"> </img>
+  
+I am a professor at [Sorbonne Université](https://www.sorbonne-universite.fr/), in the [Laboratoire de Probabilités, Statistique et Modélisation (LPSM)](https://www.lpsm.paris)
+
+I am specialized in statistics, especially latent variable models, network models and change-point detection, and their applications in life sciences, formerly in genomics and genetics and now mostly in ecology
+
+### Contact
+
+- <i class="fas fa-map-marker"></i> LPSM, Sorbonne Université, 4, place Jussieu, Paris 5, France (Office 15-25, 221) </br>
+<!--- - <i class="fa fa-phone"></i> +33 (0)1 xx xx xx xx --->
+- <i class="fa fa-at"></i> <a href="mailto:stephane.robin@sorbonne-universite.fr
+">stephane [dot] robin [at] sorbonne [hyphen] universite [dot] fr</a>
+
+<br>
+
+# Research
+
+### Submitted papers
+
+- Dion-Blanc, C., Lebarbier, E., & Robin, S. (2023). *Multiple change-point detection for Poisson processes*. [arXiv:2302.09103](https://arxiv.org/pdf/2302.09103). </br>
+- Cairo, M., Monnet, A. C., Robin, S., Porcher, E., & Fontaine, C. (2023). *Identifying pesticide mixtures at country-wide scale*. [HAL-03815557](https://hal.science/hal-03815557v2/file/Cairo%20et%20al.%20Identifying%20pesticide%20mixtures%20at%20country-wide%20scale.pdf). </br>
+- Godichon-Baggioni, A., & Robin, S. (2022). *A robust model-based clustering based on the geometric median and the Median Covariation Matrix*. [arXiv:2211.08131](https://arxiv.org/pdf/2302.09103).
+
+### Published articles
+
+Recent papers: 
+
+- Ouadah, S., Latouche, P., & Robin, S. (2022). *Motif-based tests for bipartite networks*. Electronic Journal of Statistics, 16(1), 293-330. </br>
+- Morlon, H., Robin, S., & Hartig, F. (2022). *Studying speciation and extinction dynamics from phylogenies: addressing identifiability issues*. Trends in Ecology & Evolution. </br>
+- Momal, R., Robin, S., & Ambroise, C. (2021). *Accounting for missing actors in interaction network inference from abundance data*. Journal of the Royal Statistical Society Series C: Applied Statistics, 70(5), 1230-1258.
+- Donnet, S., & Robin, S. (2021). *Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates*. Journal of the Royal Statistical Society Series C: Applied Statistics, 70(4), 858-885. </br>
+- Chiquet, J., Mariadassou, M., & Robin, S. (2021). *The Poisson-lognormal model as a versatile framework for the joint analysis of species abundances*. Frontiers in Ecology and Evolution, 9, 588292. </br>
+- Facon, B., Hafsi, A., Charlery De La Masseliere, M., Robin, S., Massol, F., Dubart, M., ... & Ravigné, V. (2021). *Joint species distributions reveal the combined effects of host plants, abiotic factors and species competition as drivers of species abundances in fruit flies*. Ecology Letters, 24(9), 1905-1916.
+
+A comprehensive list of my publications is available on  [Google Scholar](https://scholar.google.fr/citations?user=7fBfsj0AAAAJ&hl=fr&authuser=1)
+
+### Some recent talks
+
+- [SMC sampling from deterministic approximations: Application to the Poisson stochastic block-model](slides/London-2212.pdf), CMStatistics, London (Dec'22). </br>
+- [Change-point detection in a Poisson process](slides/Rochebrune-2203.pdf), "Statistiques au sommet", Rochebrune (Mar'22). </br>
+- [An exchangeable model for (ecological) bipartite network](slides/ESSEC-2203.pdf), ESSEC statistical seminar (Mar'22).
+
+### R packages
+
+I have been a (very minor) contributor to the following R packages: 
+
+- [PLNmodels](https://cran.r-project.org/web/packages/PLNmodels/index.html): Poisson Lognormal Models </br>
+- [RGMM](https://cran.r-project.org/web/packages/RGMM/index.html): Robust Mixture Model <br>
+- [qch](https://cran.r-project.org/web/packages/qch/index.html): Query Composed Hypotheses </br>
+- [CptPointProcess](https://github.com/Elebarbier/CptPointProcess): Change Point Detection for Point Processes
+
+
+# Teaching
+
+### Statistical inference for latent variable models
+
+- *Statistical inference of incomplete data models to analyse ecological networks* : four lectures at the SanDAL Winter School on Mathematical Statistics, University of Luxembourg (Dec’20) </br>
+  1 - [Models with latent variables in ecology](slides/Part10-Main-Lux2012.pdf) </br>
+  2 - [Statistical inference of incomplete data models](slides/Part20-Main-Lux2012.pdf) </br>
+  3 - [Variational inference for species abundances and network models](slides/Part30-Main-Lux2012.pdf) </br>
+  4 - [Beyond variational inference](slides/Part40-Main-Lux2012.pdf)
+
+- [*Models with Hidden Structure*](notes/ModelsHiddenStruct-Biology-29jan21.pdf) (with applications in genomics and ecology): Lecture notes for the Master 2 "Mathématiques pour les sciences du vivant", université Paris-Saclay (Jan'20)
