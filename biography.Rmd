@@ -15,10 +15,12 @@ output:
 
 Before joining Sorbonne Université and LPSM I have been
 
-* first (assistant-)professor at [Agroparistech](www.agroparistech.fr),
+* (assistant-)professor at [Agroparistech](www.agroparistech.fr),
 
 * then researcher at [INRAE](www.inrae.fr: National Research Institute for Agriculture, Food and the Environment), 
 
-* all along being affiliated to the joint research unit (UMR) [Mathématiques et Informatique Appliquées (MIA) Paris-Saclay](mia-ps.inrae.fr)
+while remaining affiliated to the 
+
+* joint research unit (UMR) [Mathématiques et Informatique Appliquées (MIA) Paris-Saclay](mia-ps.inrae.fr).
 
 
