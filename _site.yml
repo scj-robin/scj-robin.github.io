@@ -25,7 +25,7 @@ navbar:
     icon: fa-laptop
     menu:
       - text: "Lecture slides"
-        href: lectures-slides.html
+        href: lecture-slides.html
         icon: fa-comment-o 
       - text: "Lecture notes"
         href: lecture-notes.html
