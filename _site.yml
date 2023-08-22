@@ -1,7 +1,36 @@
 name: "Stéphane Robin"
 output_dir: "."
+navbar:
+  logo: images/LogoSULPSM.png
+  title: 'Stéphane Robin'
+  left:
+  - text: "Research "
+    icon: fa-chart-area
+    menu:
+      - text: "Publications"
+        href: publications.html
+        icon: fa-file-text-o
 
+      - text: "Talks"
+        href: talks.html
+        icon: fa-comment-o 
+
+      - text: "Packages"
+        href: packages.html
+        icon: fab fa-r-project
+
+  - text: "Teachings"
+    icon: fa-laptop
+    menu:
+      - text: "Lecture slides"
+        href: lectures-slides.html
+        icon: fab fa-r-project
+      - text: "Lecture notes"
+        href: lecture-notes.html
+        icon: fab fa-r-project
+             
 output:
   html_document:
     theme: cosmo
     highlight: haddock
+    

@@ -1,0 +1,23 @@
+---
+title: "Some recent talks"
+output: 
+  html_document:
+   toc: false
+   logo: images/LogoSULPSM.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br>
+
+- [SMC sampling from deterministic approximations: Application to the Poisson stochastic block-model](slides/London-2212.pdf), CMStatistics, London (Dec'22). 
+
+- [Tree-based mixtures: Application in epidemiology](slides/IHP-2210-BayesHS.pdf),
+Bayesian Methods for the Social Sciences, Paris (Oct'22)
+
+- [Change-point detection in a Poisson process](slides/Rochebrune-2203.pdf), "Statistiques au sommet", Rochebrune (Mar'22). 
+
+- [An exchangeable model for (ecological) bipartite network](slides/ESSEC-2203.pdf), ESSEC statistical seminar (Mar'22).

@@ -1,0 +1,24 @@
+---
+title: "Packages"
+output: 
+  html_document:
+   toc: false
+   logo: images/LogoSULPSM.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br>
+
+I have been a (very minor) contributor to the following R packages: 
+
+- [PLNmodels](https://cran.r-project.org/web/packages/PLNmodels/index.html): Poisson Lognormal Models 
+
+- [RGMM](https://cran.r-project.org/web/packages/RGMM/index.html): Robust Mixture Model 
+- [qch](https://cran.r-project.org/web/packages/qch/index.html): Query Composed Hypotheses 
+
+- [CptPointProcess](https://github.com/Elebarbier/CptPointProcess): Change Point Detection for Point Processes
+

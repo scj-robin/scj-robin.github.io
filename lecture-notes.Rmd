@@ -1,0 +1,20 @@
+---
+title: "Teachings"
+output: 
+  html_document:
+   toc: false
+   logo: images/LogoSULPSM.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br>
+
+## Statistical inference for latente variable models
+
+Lecture notes for the Master 2 "Mathématiques pour les sciences du vivant", université Paris-Saclay (Jan'20): 
+
+[Models with Hidden Structure](notes/ModelsHiddenStruct-Biology-29jan21.pdf) (with applications in genomics and ecology)

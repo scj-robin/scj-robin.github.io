@@ -30,6 +30,8 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -80,6 +82,80 @@ pre code {
 </style>
 
 
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
 
 <!-- tabsets -->
 
@@ -144,6 +220,83 @@ pre code {
 
 
 
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Stéphane Robin</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="fa fa-chart-area"></span>
+     
+    Research 
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="publications.html">
+        <span class="fa fa-file-text-o"></span>
+         
+        Publications
+      </a>
+    </li>
+    <li>
+      <a href="talks.html">
+        <span class="fa fa-comment-o"></span>
+         
+        Talks
+      </a>
+    </li>
+    <li>
+      <a href="packages.html">
+        <span class="fab fa-r-project"></span>
+         
+        Packages
+      </a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="fa fa-laptop"></span>
+     
+    Teachings
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lectures-slides.html">
+        <span class="fab fa-r-project"></span>
+         
+        Lecture slides
+      </a>
+    </li>
+    <li>
+      <a href="lecture-notes.html">
+        <span class="fab fa-r-project"></span>
+         
+        Lecture notes
+      </a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
 <div class="logos"><img src="images/LogoSULPSM.png" width="250px" align="right"></div>
 
 <div id="header">
@@ -170,124 +323,15 @@ ecology</p>
 <h3>Contact</h3>
 <ul>
 <li><i class="fas fa-map-marker"></i> LPSM, Sorbonne Université, 4,
-place Jussieu, Paris 5, France (Office 15-25, 221) </br>
-<!--- - <i class="fa fa-phone"></i> +33 (0)1 xx xx xx xx ---></li>
+place Jussieu, Paris 5, France (Office 15-25, 221)</li>
+</ul>
+<!--- - <i class="fa fa-phone"></i> +33 (0)1 xx xx xx xx --->
+<ul>
 <li><i class="fa fa-at"></i>
 <a href="mailto:stephane.robin@sorbonne-universite.fr
 ">stephane [dot] robin [at] sorbonne [hyphen] universite [dot]
 fr</a></li>
 </ul>
-<p><br></p>
-</div>
-<div id="research" class="section level1">
-<h1>Research</h1>
-<div id="submitted-papers" class="section level3">
-<h3>Submitted papers</h3>
-<ul>
-<li>Dion-Blanc, C., Lebarbier, E., &amp; Robin, S. (2023). <em>Multiple
-change-point detection for Poisson processes</em>. <a
-href="https://arxiv.org/pdf/2302.09103">arXiv:2302.09103</a>. </br></li>
-<li>Cairo, M., Monnet, A. C., Robin, S., Porcher, E., &amp; Fontaine, C.
-(2023). <em>Identifying pesticide mixtures at country-wide scale</em>.
-<a
-href="https://hal.science/hal-03815557v2/file/Cairo%20et%20al.%20Identifying%20pesticide%20mixtures%20at%20country-wide%20scale.pdf">HAL-03815557</a>.
-</br></li>
-<li>Godichon-Baggioni, A., &amp; Robin, S. (2022). <em>A robust
-model-based clustering based on the geometric median and the Median
-Covariation Matrix</em>. <a
-href="https://arxiv.org/pdf/2302.09103">arXiv:2211.08131</a>.</li>
-</ul>
-</div>
-<div id="published-articles" class="section level3">
-<h3>Published articles</h3>
-<p>Recent papers:</p>
-<ul>
-<li>Ouadah, S., Latouche, P., &amp; Robin, S. (2022). <em>Motif-based
-tests for bipartite networks</em>. Electronic Journal of Statistics,
-16(1), 293-330. </br></li>
-<li>Morlon, H., Robin, S., &amp; Hartig, F. (2022). <em>Studying
-speciation and extinction dynamics from phylogenies: addressing
-identifiability issues</em>. Trends in Ecology &amp; Evolution.
-</br></li>
-<li>Momal, R., Robin, S., &amp; Ambroise, C. (2021). <em>Accounting for
-missing actors in interaction network inference from abundance
-data</em>. Journal of the Royal Statistical Society Series C: Applied
-Statistics, 70(5), 1230-1258.</li>
-<li>Donnet, S., &amp; Robin, S. (2021). <em>Accelerating Bayesian
-estimation for network Poisson models using frequentist variational
-estimates</em>. Journal of the Royal Statistical Society Series C:
-Applied Statistics, 70(4), 858-885. </br></li>
-<li>Chiquet, J., Mariadassou, M., &amp; Robin, S. (2021). <em>The
-Poisson-lognormal model as a versatile framework for the joint analysis
-of species abundances</em>. Frontiers in Ecology and Evolution, 9,
-588292. </br></li>
-<li>Facon, B., Hafsi, A., Charlery De La Masseliere, M., Robin, S.,
-Massol, F., Dubart, M., … &amp; Ravigné, V. (2021). <em>Joint species
-distributions reveal the combined effects of host plants, abiotic
-factors and species competition as drivers of species abundances in
-fruit flies</em>. Ecology Letters, 24(9), 1905-1916.</li>
-</ul>
-<p>A comprehensive list of my publications is available on <a
-href="https://scholar.google.fr/citations?user=7fBfsj0AAAAJ&amp;hl=fr&amp;authuser=1">Google
-Scholar</a></p>
-</div>
-<div id="some-recent-talks" class="section level3">
-<h3>Some recent talks</h3>
-<ul>
-<li><a href="slides/London-2212.pdf">SMC sampling from deterministic
-approximations: Application to the Poisson stochastic block-model</a>,
-CMStatistics, London (Dec’22). </br></li>
-<li><a href="slides/Rochebrune-2203.pdf">Change-point detection in a
-Poisson process</a>, “Statistiques au sommet”, Rochebrune (Mar’22).
-</br></li>
-<li><a href="slides/ESSEC-2203.pdf">An exchangeable model for
-(ecological) bipartite network</a>, ESSEC statistical seminar
-(Mar’22).</li>
-</ul>
-</div>
-<div id="r-packages" class="section level3">
-<h3>R packages</h3>
-<p>I have been a (very minor) contributor to the following R
-packages:</p>
-<ul>
-<li><a
-href="https://cran.r-project.org/web/packages/PLNmodels/index.html">PLNmodels</a>:
-Poisson Lognormal Models </br></li>
-<li><a
-href="https://cran.r-project.org/web/packages/RGMM/index.html">RGMM</a>:
-Robust Mixture Model <br></li>
-<li><a
-href="https://cran.r-project.org/web/packages/qch/index.html">qch</a>:
-Query Composed Hypotheses </br></li>
-<li><a
-href="https://github.com/Elebarbier/CptPointProcess">CptPointProcess</a>:
-Change Point Detection for Point Processes</li>
-</ul>
-</div>
-</div>
-<div id="teaching" class="section level1">
-<h1>Teaching</h1>
-<div id="statistical-inference-for-latent-variable-models"
-class="section level3">
-<h3>Statistical inference for latent variable models</h3>
-<ul>
-<li><p><em>Statistical inference of incomplete data models to analyse
-ecological networks</em> : four lectures at the SanDAL Winter School on
-Mathematical Statistics, University of Luxembourg (Dec’20) </br> 1 - <a
-href="slides/Part10-Main-Lux2012.pdf">Models with latent variables in
-ecology</a> </br> 2 - <a
-href="slides/Part20-Main-Lux2012.pdf">Statistical inference of
-incomplete data models</a> </br> 3 - <a
-href="slides/Part30-Main-Lux2012.pdf">Variational inference for species
-abundances and network models</a> </br> 4 - <a
-href="slides/Part40-Main-Lux2012.pdf">Beyond variational
-inference</a></p></li>
-<li><p><a href="notes/ModelsHiddenStruct-Biology-29jan21.pdf"><em>Models
-with Hidden Structure</em></a> (with applications in genomics and
-ecology): Lecture notes for the Master 2 “Mathématiques pour les
-sciences du vivant”, université Paris-Saclay (Jan’20)</p></li>
-</ul>
-</div>
 </div>
 
 
