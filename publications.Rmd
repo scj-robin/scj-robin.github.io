@@ -25,7 +25,7 @@ output:
 
 ### Published articles
 
-Recent papers: 
+##### Recent papers: 
 
 - Ouadah, S., Latouche, P., & Robin, S. (2022). *Motif-based tests for bipartite networks*. Electronic Journal of Statistics, 16(1), 293-330. 
 
