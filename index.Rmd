@@ -18,7 +18,7 @@ output:
 
 * Researcher in statistics, specialized in latent variable models, network models and change-point detection
 
-* Interested in their applications in life sciences, formerly in genomics and genetics and now mostly in ecology
+* Interested in their applications to life sciences, formerly genomics and genetics, and now mostly ecology
 
 </br>
 
