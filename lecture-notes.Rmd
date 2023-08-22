@@ -1,5 +1,5 @@
 ---
-title: "Teachings"
+title: "Lecture notes"
 output: 
   html_document:
    toc: false
@@ -15,6 +15,5 @@ output:
 
 ## Statistical inference for latente variable models
 
-Lecture notes for the Master 2 "Mathématiques pour les sciences du vivant", université Paris-Saclay (Jan'20): 
-
-[Models with Hidden Structure](notes/ModelsHiddenStruct-Biology-29jan21.pdf) (with applications in genomics and ecology)
+[Models with Hidden Structure](notes/ModelsHiddenStruct-Biology-29jan21.pdf) (with applications in genomics and ecology): Master 2 "Mathématiques pour les sciences du vivant", université Paris-Saclay (Jan'20).
+* 
