@@ -4,17 +4,19 @@ navbar:
   logo: images/LogoSULPSM.png
   title: 'Stéphane Robin'
   left:
+  - text: "Biography"
+    icon: fa-child
+    href: biography.html
+    
   - text: "Research "
     icon: fa-chart-area
     menu:
       - text: "Publications"
         href: publications.html
         icon: fa-file-text-o
-
       - text: "Talks"
         href: talks.html
         icon: fa-comment-o 
-
       - text: "Packages"
         href: packages.html
         icon: fab fa-r-project

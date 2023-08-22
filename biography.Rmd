@@ -1,0 +1,24 @@
+---
+title: "Teachings"
+output: 
+  html_document:
+   toc: false
+   logo: images/LogoSULPSM.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br>
+
+Before joining Sorbonne Université and LPSM I have been
+
+* first (assistant-)professor at [Agroparistech](www.agroparistech.fr),
+
+* then researcher at [INRAE](www.inrae.fr: National Research Institute for Agriculture, Food and the Environment), 
+
+* all along being affiliated to the joint research unit (UMR) [Mathématiques et Informatique Appliquées (MIA) Paris-Saclay](mia-ps.inrae.fr)
+
+
