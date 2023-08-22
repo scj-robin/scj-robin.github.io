@@ -26,10 +26,10 @@ navbar:
     menu:
       - text: "Lecture slides"
         href: lectures-slides.html
-        icon: fab fa-r-project
+        icon: fa-comment-o 
       - text: "Lecture notes"
         href: lecture-notes.html
-        icon: fab fa-r-project
+        icon: fa-file-pdf-o
              
 output:
   html_document:
