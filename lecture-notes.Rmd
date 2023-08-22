@@ -15,5 +15,5 @@ output:
 
 ## Statistical inference for latente variable models
 
-[Models with Hidden Structure](notes/ModelsHiddenStruct-Biology-29jan21.pdf) (with applications in genomics and ecology): Master 2 "Mathématiques pour les sciences du vivant", université Paris-Saclay (Jan'20).
+[Models with Hidden Structure](notes/ModelsHiddenStruct-Biology-29jan21.pdf) (with applications to genomics and ecology): Master 2 "Mathématiques pour les sciences du vivant", université Paris-Saclay (Jan'20).
 * 
