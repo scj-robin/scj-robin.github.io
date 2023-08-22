@@ -13,9 +13,9 @@ output:
 
 <br>
 
-## Statistical inference of incomplete data models to analyse ecological networks
+## Statistical inference for latente variable models
 
-Four lectures at the SanDAL Winter School on Mathematical Statistics, University of Luxembourg (Dec’20):
+Statistical inference of incomplete data models to analyse ecological networks:
 
   1 - [Models with latent variables in ecology](slides/Part10-Main-Lux2012.pdf)
   
@@ -25,3 +25,4 @@ Four lectures at the SanDAL Winter School on Mathematical Statistics, University
 
   4 - [Beyond variational inference](slides/Part40-Main-Lux2012.pdf)
 
+SanDAL Winter School on Mathematical Statistics, University of Luxembourg (Dec’20)
