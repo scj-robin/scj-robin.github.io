@@ -15,6 +15,8 @@ output:
 
 ### Submitted papers
 
+<!--- + - Le Minh, T., Donnet, S, Massol, F., & Robin, S. (2023). *Hoeffding-type decomposition for $U$-statistics on bipartite networks*. [arXiv:](https://arxiv.org/pdf/). + --->
+
 - Dion-Blanc, C., Lebarbier, E., & Robin, S. (2023). *Multiple change-point detection for Poisson processes*. [arXiv:2302.09103](https://arxiv.org/pdf/2302.09103). 
 
 - Cairo, M., Monnet, A. C., Robin, S., Porcher, E., & Fontaine, C. (2023). *Identifying pesticide mixtures at country-wide scale*. [HAL-03815557](https://hal.science/hal-03815557v2/file/Cairo%20et%20al.%20Identifying%20pesticide%20mixtures%20at%20country-wide%20scale.pdf). 
