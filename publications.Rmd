@@ -15,7 +15,7 @@ output:
 
 ### Submitted papers
 
-<!--- + - Le Minh, T., Donnet, S, Massol, F., & Robin, S. (2023). *Hoeffding-type decomposition for $U$-statistics on bipartite networks*. [arXiv:](https://arxiv.org/pdf/). + --->
+- Le Minh, T., Donnet, S, Massol, F., & Robin, S. (2023). *Hoeffding-type decomposition for $U$-statistics on bipartite networks*. [arXiv:2308.14518](https://arxiv.org/pdf/2308.14518). 
 
 - Dion-Blanc, C., Lebarbier, E., & Robin, S. (2023). *Multiple change-point detection for Poisson processes*. [arXiv:2302.09103](https://arxiv.org/pdf/2302.09103). 
 
