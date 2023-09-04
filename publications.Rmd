@@ -29,7 +29,7 @@ output:
 
 ##### Recent papers: 
 
-- Ouadah, S., Latouche, P., & Robin, S. (2022). *Motif-based tests for bipartite networks*. Electronic Journal of Statistics, 16(1), 293-330. 
+- Ouadah, S., Latouche, P., & Robin, S. (2022). *Motif-based tests for bipartite networks*. Electronic Journal of Statistics, 16(1), 293-330. [arXiv:2101.11381](https://arxiv.org/abs/2101.11381)
 
 - Morlon, H., Robin, S., & Hartig, F. (2022). *Studying speciation and extinction dynamics from phylogenies: addressing identifiability issues*. Trends in Ecology & Evolution. 
 
