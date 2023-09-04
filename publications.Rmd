@@ -29,18 +29,23 @@ output:
 
 ##### Recent papers: 
 
-- Ouadah, S., Latouche, P., & Robin, S. (2022). *Motif-based tests for bipartite networks*. Electronic Journal of Statistics, 16(1), 293-330. [arXiv:2101.11381](https://arxiv.org/abs/2101.11381).
+- Ouadah, S., Latouche, P., & Robin, S. (2022). *Motif-based tests for bipartite networks*. Electronic Journal of Statistics, 16(1), 293-330. 
+[arXiv:2101.11381](https://arxiv.org/abs/2101.11381).
 
-- Morlon, H., Robin, S., & Hartig, F. (2022). *Studying speciation and extinction dynamics from phylogenies: addressing identifiability issues*. Trends in Ecology & Evolution. 
+- Morlon, H., Robin, S., & Hartig, F. (2022). *Studying speciation and extinction dynamics from phylogenies: addressing identifiability issues*. Trends in Ecology & Evolution. [bioRxiv:2020.07.03.185074](https://www.biorxiv.org/content/10.1101/2020.07.03.185074v1).
 
-- Momal, R., Robin, S., & Ambroise, C. (2021). *Accounting for missing actors in interaction network inference from abundance data*. Journal of the Royal Statistical Society Series C: Applied Statistics, 70(5), 1230-1258. [arXiv:2007.14299](https://arxiv.org/abs/2007.14299).
+- Momal, R., Robin, S., & Ambroise, C. (2021). *Accounting for missing actors in interaction network inference from abundance data*. Journal of the Royal Statistical Society Series C: Applied Statistics, 70(5), 1230-1258.
+[arXiv:2007.14299](https://arxiv.org/abs/2007.14299).
 
 - Donnet, S., & Robin, S. (2021). *Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates*. Journal of the Royal Statistical Society Series C: Applied Statistics, 70(4), 858-885. 
-[arXiv:1707.07971 (unpublished complete version)](https://arxiv.org/abs/1707.07971). [arXiv:1907.09771](https://arxiv.org/abs/1907.09771).
+[arXiv:1707.07971 (unpublished complete version)](https://arxiv.org/abs/1707.07971).
+[arXiv:1907.09771](https://arxiv.org/abs/1907.09771).
 
 - Chiquet, J., Mariadassou, M., & Robin, S. (2021). *The Poisson-lognormal model as a versatile framework for the joint analysis of species abundances*. Frontiers in Ecology and Evolution, 9, 588292. 
+[bioRxiv:2020.10.07.329383](https://www.biorxiv.org/content/10.1101/2020.10.07.329383v1).
 
 - Facon, B., Hafsi, A., Charlery De La Masseliere, M., Robin, S., Massol, F., Dubart, M., ... & Ravigné, V. (2021). *Joint species distributions reveal the combined effects of host plants, abiotic factors and species competition as drivers of species abundances in fruit flies*. Ecology Letters, 24(9), 1905-1916.
+[bioRxiv:2020.12.07.414326](https://www.biorxiv.org/content/10.1101/2020.12.07.414326v4).
 
 </br>
 
