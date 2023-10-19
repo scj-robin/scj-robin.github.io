@@ -13,6 +13,8 @@ output:
 
 <br>
 
+- [Change-point detection in a Poisson process](slides/MAP5-2310) Special colloquium session in tribute to Catherine Huber-Carol, Paris (Oct'23)
+
 - [SMC sampling from deterministic approximations: Application to the Poisson stochastic block-model](slides/London-2212.pdf), CMStatistics, London (Dec'22). 
 
 - [Tree-based mixtures: Application in epidemiology](slides/IHP-2210-BayesHS.pdf),
