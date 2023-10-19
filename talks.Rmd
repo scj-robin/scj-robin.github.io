@@ -20,6 +20,4 @@ output:
 - [Tree-based mixtures: Application in epidemiology](slides/IHP-2210-BayesHS.pdf),
 Bayesian Methods for the Social Sciences, Paris (Oct'22)
 
-- [Change-point detection in a Poisson process](slides/Rochebrune-2203.pdf), "Statistiques au sommet", Rochebrune (Mar'22). 
-
 - [An exchangeable model for (ecological) bipartite network](slides/ESSEC-2203.pdf), ESSEC statistical seminar (Mar'22).
