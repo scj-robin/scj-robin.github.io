@@ -19,9 +19,9 @@ output:
 
 - Dion-Blanc, C., Lebarbier, E., & Robin, S. (2023). *Multiple change-point detection for Poisson processes*. [arXiv:2302.09103](https://arxiv.org/abs/2302.09103). 
 
-- Cairo, M., Monnet, A. C., Robin, S., Porcher, E., & Fontaine, C. (2023). *Identifying pesticide mixtures at country-wide scale*. [HAL-03815557](https://hal.science/hal-03815557v3). 
+- Cairo, M., Monnet, A. C., Robin, S., Porcher, E., & Fontaine, C. (2023). *Identifying pesticide mixtures at country-wide scale*. [HAL-03815557](https://hal.science/hal-03815557v3), to appear in *PeerJ Life & Environment*. 
 
-- Godichon-Baggioni, A., & Robin, S. (2022). *A robust model-based clustering based on the geometric median and the median covariation matrix*. [arXiv:2211.08131](https://arxiv.org/abs/2211.08131).
+- Godichon-Baggioni, A., & Robin, S. (2022). *A robust model-based clustering based on the geometric median and the median covariation matrix*. [arXiv:2211.08131](https://arxiv.org/abs/2211.08131), to appear in *Statistics and Computing*.
 
 <br>
 
