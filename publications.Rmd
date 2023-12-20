@@ -27,7 +27,7 @@ output:
 
 ##### Recent papers: 
 
-- Godichon-Baggioni, A., & Robin, S. (2024). *A robust model-based clustering based on the geometric median and the Median Covariation Matrix*. Statistics and Computing 34-55 [arXiv:2211.08131](https://arxiv.org/abs/2211.08131).
+- Godichon-Baggioni, A., & Robin, S. (2024). *A robust model-based clustering based on the geometric median and the Median Covariation Matrix*. Statistics and Computing 34-55. [arXiv:2211.08131](https://arxiv.org/abs/2211.08131).
 
 - Ouadah, S., Latouche, P., & Robin, S. (2022). *Motif-based tests for bipartite networks*. Electronic Journal of Statistics, 16(1), 293-330. 
 [arXiv:2101.11381](https://arxiv.org/abs/2101.11381).
