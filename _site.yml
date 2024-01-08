@@ -30,6 +30,9 @@ navbar:
       - text: "Lecture notes"
         href: lecture-notes.html
         icon: fa-file-pdf-o
+      - text: "Modèles statistiques pour l'écologie"
+        href: cours-modeles-stat-ecologie.html
+        icon: fa-file-pdf-o
              
 output:
   html_document:
