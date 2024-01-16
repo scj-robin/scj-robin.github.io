@@ -42,6 +42,6 @@ Des notes de cours sur l'inférence des modèles à variables latentes sont [dis
 
 #### Planning
 
-Les cours auront lieu les mardis matin de 9h à 12h. Le planning exact est [disponible ici](https://m2stat.sorbonne-universite.fr/enseignement/agenda/). Les dates et salles des séances de TD seront indiquées au fur et à mesure.
+Les cours auront lieu les mardis matin de 9h à 12h. Le planning exact est disponible [ ici](https://m2stat.sorbonne-universite.fr/enseignement/agenda/) et [là](https://isup.sorbonne-universite.fr/plannings-2023-2024). Les dates et salles des séances de TD seront indiquées au fur et à mesure.
 
 
