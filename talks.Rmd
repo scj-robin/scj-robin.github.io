@@ -13,6 +13,9 @@ output:
 
 <br>
 
+- [A partial history of latent variable models in genomics](slides/SMPGD-2402), Statistical Methods for Post-Genomic Data, Paris (Feb'24)
+
+
 - [Change-point detection in a Poisson process](slides/MAP5-2310), Special colloquium session in tribute to Catherine Huber-Carol, Paris (Oct'23)
 
 - [SMC sampling from deterministic approximations: Application to the Poisson stochastic block-model](slides/London-2212.pdf), CMStatistics, London (Dec'22). 
