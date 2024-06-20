@@ -13,6 +13,8 @@ output:
 
 <br>
 
+- [Segmentation and classification of a Hawkes process](slides/RMR2024-2406), Rencontres Mathématiques de Rouen (Jun'24)
+
 - [A partial history of latent variable models in genomics](slides/SMPGD-2402), Statistical Methods for Post-Genomic Data, Paris (Feb'24)
 
 
