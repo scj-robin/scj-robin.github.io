@@ -35,7 +35,7 @@ Notions fondamentales de probabilités et statistique, connaissance de R.
 
 #### Planning
 
-Les cours auront lieu les lundis après-midis de 14h à 17h.
+Les cours auront lieu les **lundis matin de 8h30 à 12h30**, les 20/01, 03/02, 10/02, 17/02, 03/03, 10/03, 17/03, et l'examen aura lieu le 24/03.
 
 <!-- * en salle 24-34/309 : les 16, 23, 30 janvier, 6 et 13 février, -->
 <!-- * en salle 14-24/201 : les 27 février, 5, 12, 19 et 26 mars. -->
