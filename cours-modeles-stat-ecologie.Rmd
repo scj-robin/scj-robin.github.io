@@ -24,7 +24,7 @@ Nous utiliserons également la représentation de ces modèles selon le formalis
 Certains des modèles présentés seront mis en oeuvre lors de séances de travaux dirigés sur machine. Ce cours vise notamment à apprendre à définir un modèle pertinent pour répondre à une question écologique, concevoir un algorithme permettant d'en estimer les paramètres et implémenter cet algorithme.
 
 #### Prérequis 
-Notions fondamentales de probabilités et statistique, connaissance de R.
+Notions fondamentales de probabilités et statistique, connaissance du langage R.
 
 #### Thèmes abordés
 
