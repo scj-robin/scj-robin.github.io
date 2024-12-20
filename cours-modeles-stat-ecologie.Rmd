@@ -13,7 +13,7 @@ output:
 
 <br>
 
-## Quelques modèles à variables latentes pour l'écologie
+## Modèles à variables latentes pour l'écologie
 
 L'écologie s'intéresse aux relations que les espèces vivantes entretiennent entre elles et avec leur milieu. L'analyse et la compréhension de ces interactions passe fréquemment par une modélisation statistique impliquant des variables latentes (c'est-à-dire non observées) visant à décrire les structures et les processus qui sous-tendent ces interactions.
 
@@ -47,8 +47,6 @@ Date               | Salle
 10/03 (TD)         | 24 - 34 / 101   
 17/03              | 24 - 34 / 101   
 24/03 (**examen**) | 24 - 34 / 101   
-
-les 20/01, 03/02, 10/02, 17/02, 03/03, 10/03, 17/03, et l'examen aura lieu le 24/03.
 
 <!-- * en salle 24-34/309 : les 16, 23, 30 janvier, 6 et 13 février, -->
 <!-- * en salle 14-24/201 : les 27 février, 5, 12, 19 et 26 mars. -->
