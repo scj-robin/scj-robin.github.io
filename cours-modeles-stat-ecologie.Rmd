@@ -70,8 +70,11 @@ Date               | Salle
 *  [Evolution de la masse corporelle chez les mammifères](https://scj-robin.github.io/examples/CarnivoreBodymass.html) (mouvement brownien le long des branches de l'arbre phylogénétique) 
 *  [Abondance de plie canadienne en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMnegbin) (modèle Poisson-Gamma = régression binomiale négative = régression poissonnienne surdispersée)
 
-#### Données TD
+#### TD : Sujets et données 
 
-* TD1 : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/data/GoldenRedfish.csv) (régression de Poisson excès de zéros) 
+##### TD1 : 
+
+* Sujet : [Régression de Poisson excès de zéros]()
+* Données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/data/GoldenRedfish.csv) 
 
 
