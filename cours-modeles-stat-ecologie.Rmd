@@ -57,8 +57,14 @@ Date               | Salle
 
 Des notes de cours sur l'inférence des modèles à variables latentes sont disponibles [ici](https://scj-robin.github.io/lecture-notes.html), de même que les [supports](https://scj-robin.github.io/lecture-slides.html) d'une série de cours doctoraux sur l'utilisation de certains de ces modèles en écologie.
 
-#### Exemples
+#### Exemples présentés en cours
 
-* Cours 1 : 
-  [Nombre de satellites de crabes femelles](https://scj-robin.github.io/examples/HorseshoeGLMpoisson.html) (régression de Poisson avec un terme d'offset) 
-  [Abondance de flétan en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMbernoulli.html) (régression logistique)
+##### Cours 1 : 
+
+*  [Nombre de satellites de crabes femelles](https://scj-robin.github.io/examples/HorseshoeGLMpoisson.html) (régression de Poisson avec un terme d'offset) 
+*  [Abondance de flétan en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMbernoulli.html) (régression logistique)
+  
+##### Cours 2 : 
+
+*  [Evolution de la masse corporelle chez les mammifères](https://scj-robin.github.io/examples/CarnivoreBodymass.html) (mouvement brownien le long des branches de l'arbre phylogénétique) 
+*  [Abondance de plie canadienne en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMnegbin) (modèle Poisson-Gamma = régression binomiale négative = régression poissonnienne surdispersée)
