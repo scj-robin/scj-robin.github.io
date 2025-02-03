@@ -63,7 +63,7 @@ Date               | Salle
 ##### Cours 1 : 
 
 *  [Nombre de satellites de crabes femelles](https://scj-robin.github.io/examples/HorseshoeGLMpoisson.html) (régression de Poisson avec un terme d'offset) 
-*  [Abondance de flétan en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMbernoulli.html) (régression logistique)
+*  [Présence/absence de flétan en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMbernoulli.html) (régression logistique)
   
 ##### Cours 2 : 
 
