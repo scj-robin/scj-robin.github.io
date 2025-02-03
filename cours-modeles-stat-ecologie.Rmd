@@ -57,3 +57,6 @@ Date               | Salle
 
 Des notes de cours sur l'inférence des modèles à variables latentes sont disponibles [ici](https://scj-robin.github.io/lecture-notes.html), de même que les [supports](https://scj-robin.github.io/lecture-slides.html) d'une série de cours doctoraux sur l'utilisation de certains de ces modèles en écologie.
 
+#### Exemples
+
+* Cours 1 : [Abondance de flétan en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMbernoulli.html) (régression logistique)
