@@ -59,4 +59,6 @@ Des notes de cours sur l'inférence des modèles à variables latentes sont disp
 
 #### Exemples
 
-* Cours 1 : [Abondance de flétan en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMbernoulli.html) (régression logistique)
+* Cours 1 : 
+  [Nombre de satellites de crabes femelles](https://scj-robin.github.io/examples/HorseshoeGLMpoisson.html) (régression de Poisson avec un terme d'offset) 
+  [Abondance de flétan en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMbernoulli.html) (régression logistique)
