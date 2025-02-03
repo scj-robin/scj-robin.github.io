@@ -55,7 +55,8 @@ Date               | Salle
 
 #### Supports associés
 
-Des notes de cours sur l'inférence des modèles à variables latentes sont disponibles [ici](https://scj-robin.github.io/lecture-notes.html), de même que les [supports](https://scj-robin.github.io/lecture-slides.html) d'une série de cours doctoraux sur l'utilisation de certains de ces modèles en écologie.
+* Des notes de cours sur l'inférence des modèles à variables latentes sont disponibles [ici](https://scj-robin.github.io/lecture-notes.html)
+* Les supports d'une série de cours doctoraux sur l'utilisation de certains de ces modèles en écologie sont disponibles [ici](https://scj-robin.github.io/lecture-slides.html) d'une série de cours doctoraux sur l'utilisation de certains de ces modèles en écologie.
 
 #### Exemples présentés en cours
 
