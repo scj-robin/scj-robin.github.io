@@ -72,6 +72,6 @@ Date               | Salle
 
 #### Données TD
 
-* TD1 : [Abondance de sébaste doré en mer de Barents](https://scj-robin.github.io/data/GoldenRedfish.csv) (régression de Poisson excès de zéros) 
+* TD1 : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/data/GoldenRedfish.csv) (régression de Poisson excès de zéros) 
 
 
