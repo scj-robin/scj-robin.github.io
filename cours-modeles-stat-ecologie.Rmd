@@ -72,11 +72,17 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 *  [Evolution de la masse corporelle chez les mammifères](https://scj-robin.github.io/examples/CarnivoreBodymass.html) (mouvement brownien le long des branches de l'arbre phylogénétique) 
 *  [Abondance de plie canadienne en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMnegbin) (modèle Poisson-Gamma = régression binomiale négative = régression poissonnienne surdispersée)
 
+##### Cours 3 : 
+
+*  [Modélisation du déplacement d'un zèbre](https://scj-robin.github.io/examples/PEL19-zebra.html) (modèle de Markov caché sur la vitesse et l'angle du déplacement) 
+*  [Modélisation du déplacement d'un élan](https://scj-robin.github.io/examples/BarentsGLMnegbin) (modèle de Markov caché sur la vitesse, avec covariable)
+
 #### TD : Sujets et données 
 
 ##### TD1 : 
 
 * Sujet : [Régression de Poisson excès de zéros](https://scj-robin.github.io/td/TD1.pdf)
 * Données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/td/GoldenRedfish.csv) 
+
 
 
