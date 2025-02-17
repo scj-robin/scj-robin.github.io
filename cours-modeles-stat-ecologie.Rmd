@@ -76,6 +76,7 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 
 *  [Modélisation du déplacement d'un zèbre](https://scj-robin.github.io/examples/PEL19-zebra.html) (modèle de Markov caché sur la vitesse et l'angle du déplacement) 
 *  [Modélisation du déplacement d'un élan](https://scj-robin.github.io/examples/BarentsGLMnegbin) (modèle de Markov caché sur la vitesse, avec covariable)
+*  [Traits morphologiques de lézards](https://scj-robin.github.io/examples/Lizards-PhyloPCA) (ACP phylogénétique, ACP probabiliste)
 
 #### TD : Sujets et données 
 
