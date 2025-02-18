@@ -1,0 +1,18 @@
+---
+title: "Position"
+output: 
+  html_document:
+   toc: false
+   logo: images/LogoSULPSM.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br>
+
+### [MathPhDinFrance](https://mathphdinfrance.fr/)
+
+Applicants to the Math PhD in France program supported by the [Fondation des Sciences mathématiques de Paris](https://sciencesmaths-paris.fr/) may consider the topic [*Pólya urn models and neutral theory of biodiversity*](https://scj-robin.github.io/documents/Peyhardi-Robin-PhDtopic-FSMP.pdf), which I propose with Jean Peyhardi (Institut Montpellierain Alexander Grothendieck, Université de Montpellier)

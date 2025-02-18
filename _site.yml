@@ -20,6 +20,8 @@ navbar:
       - text: "Packages"
         href: packages.html
         icon: fab fa-r-project
+      - text: "Position"
+        href: positions.html
 
   - text: "Teachings"
     icon: fa-laptop
