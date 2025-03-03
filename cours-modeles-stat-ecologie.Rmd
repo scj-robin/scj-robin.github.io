@@ -90,7 +90,7 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 ####### Données d'abondances
 
 *  [Modélisation conjointe de données d'abondances](https://scj-robin.github.io/examples/BarentsPLN) (modèle à Poisson log-normal avec et sans covariable)
-*  [Inférence de réseaux d'interactions directes entre espèces](https://scj-robin.github.io/examples/BarentsPLNnetwork.html) (modèle à Poisson log-normal avec et sans covariable)
+*  [Inférence de réseaux d'interactions directes entre espèces](https://scj-robin.github.io/examples/BarentsPLNnetwork.html) (modèle à Poisson log-normal pour une matrice de précision creuse, avec et sans covariable)
 
 #### TD : Sujets et données 
 
