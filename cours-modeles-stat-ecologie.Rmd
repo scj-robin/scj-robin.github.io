@@ -55,14 +55,14 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 
 <!-- Le planning est également disponible [ ici](https://m2stat.sorbonne-universite.fr/enseignement/agenda/) et [là](https://isup.sorbonne-universite.fr/plannings-2023-2024). Les salles de TD seront précisées au fur et à mesure. -->
 
---------------------------------------------------------------------------------
+----
 
 #### Supports associés
 
 * Des notes de cours sur l'inférence des modèles à variables latentes sont disponibles [ici](https://scj-robin.github.io/lecture-notes.html).
 * Les supports d'une série de cours doctoraux sur certains des modèles présentés en cours sont disponibles [ici](https://scj-robin.github.io/lecture-slides.html).
 
---------------------------------------------------------------------------------
+----
 
 #### Exemples présentés en cours
 
@@ -96,7 +96,7 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 *  [Modélisation conjointe de données d'abondances](https://scj-robin.github.io/examples/BarentsPLN) (modèle à Poisson log-normal avec et sans covariable)
 *  [Inférence de réseaux d'interactions directes entre espèces](https://scj-robin.github.io/examples/BarentsPLNnetwork.html) (modèle à Poisson log-normal pour une matrice de précision creuse, avec et sans covariable)
 
---------------------------------------------------------------------------------
+----
 
 #### TD : Sujets et données 
 
@@ -105,7 +105,7 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 * Sujet : [Régression de Poisson avec sur-abondance de zéros](https://scj-robin.github.io/td/TD1.pdf)
 * Données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/td/GoldenRedfish.csv) 
 
---------------------------------------------------------------------------------
+----
 
 #### Annales
 
