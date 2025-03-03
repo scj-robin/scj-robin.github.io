@@ -102,7 +102,7 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 
 ##### TD1 : 
 
-* Sujet : [Régression de Poisson excès de zéros](https://scj-robin.github.io/td/TD1.pdf)
+* Sujet : [Régression de Poisson avec sur-abondance de zéros](https://scj-robin.github.io/td/TD1.pdf)
 * Données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/td/GoldenRedfish.csv) 
 
 --------------------------------------------------------------------------------
