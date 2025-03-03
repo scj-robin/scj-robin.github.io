@@ -99,5 +99,8 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 * Sujet : [Régression de Poisson excès de zéros](https://scj-robin.github.io/td/TD1.pdf)
 * Données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/td/GoldenRedfish.csv) 
 
+#### Annales
 
+* 2021-22 :  [Sujet](https://scj-robin.github.io/examples/Examen2022-Sujet.pdf), [Corrigé](https://scj-robin.github.io/td/Examen2022-Corrige.pdf) 
+* 2022-23 :  [Sujet](https://scj-robin.github.io/td/Examen2023-Sujet.pdf), [Corrigé](https://scj-robin.github.io/td/Examen2022-Corrige.pdf) 
 
