@@ -64,6 +64,22 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 
 ----
 
+#### TD : Sujets et données 
+
+##### TD1 : 
+
+* Sujet : [Régression de Poisson avec sur-abondance de zéros](https://scj-robin.github.io/td/TD1.pdf)
+* Données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/td/GoldenRedfish.csv) 
+
+----
+
+#### Annales
+
+* 2021-22 :  [Sujet](https://scj-robin.github.io/examples/Examen2022-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2022-Corrige.pdf) (cet examen était long et assez difficile)
+* 2022-23 :  [Sujet](https://scj-robin.github.io/examples/Examen2023-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2022-Corrige.pdf) 
+
+----
+
 #### Exemples présentés en cours
 
 ##### Cours 1 : 
@@ -95,20 +111,4 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 
 *  [Modélisation conjointe de données d'abondances](https://scj-robin.github.io/examples/BarentsPLN) (modèle à Poisson log-normal avec et sans covariable)
 *  [Inférence de réseaux d'interactions directes entre espèces](https://scj-robin.github.io/examples/BarentsPLNnetwork.html) (modèle à Poisson log-normal pour une matrice de précision creuse, avec et sans covariable)
-
-----
-
-#### TD : Sujets et données 
-
-##### TD1 : 
-
-* Sujet : [Régression de Poisson avec sur-abondance de zéros](https://scj-robin.github.io/td/TD1.pdf)
-* Données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/td/GoldenRedfish.csv) 
-
-----
-
-#### Annales
-
-* 2021-22 :  [Sujet](https://scj-robin.github.io/examples/Examen2022-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2022-Corrige.pdf) (cet examen était long et assez difficile)
-* 2022-23 :  [Sujet](https://scj-robin.github.io/examples/Examen2023-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2022-Corrige.pdf) 
 
