@@ -78,6 +78,20 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 *  [Modélisation du déplacement d'un élan](https://scj-robin.github.io/examples/BarentsGLMnegbin) (modèle de Markov caché sur la vitesse, avec covariable)
 *  [Traits morphologiques de lézards](https://scj-robin.github.io/examples/Lizards-PhyloPCA) (ACP phylogénétique, ACP probabiliste)
 
+##### Cours 4 : 
+
+####### Données de réseaux
+
+*  [Modélisation d'un réseau social](https://scj-robin.github.io/examples/KarateSBM.html) (modèle à blocs stochastiques binaire) 
+*  [Modélisation d'un réseau d'arbres](https://scj-robin.github.io/examples/TreeInteractions-SBM.html) (modèle à blocs stochastiques poissonnien sur le nombre de parasites communs avec et sans covariable) 
+*  [Modélisation d'un réseau hôtes/parasites (arbres/champignons)](https://scj-robin.github.io/examples/FungiTreeInteractions-LBM.html) (modèle à blocs latents binaire)
+*  [Modélisation d'un réseau plentes/animauxc](https://scj-robin.github.io/examples/PlantAnimals-MultipartiteLBM.html) (modèle à blocs latents binaire)
+
+####### Données d'abondances
+
+*  [Modélisation conjointe de données d'abondances](https://scj-robin.github.io/examples/BarentsPLN) (modèle à Poisson log-normal avec et sans covariable)
+*  [Inférence de réseaux d'interactions directes entre espèces](https://scj-robin.github.io/examples/BarentsPLNnetwork.html) (modèle à Poisson log-normal avec et sans covariable)
+
 #### TD : Sujets et données 
 
 ##### TD1 : 
