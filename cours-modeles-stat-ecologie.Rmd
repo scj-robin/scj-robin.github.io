@@ -71,6 +71,14 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 * Sujet : [Régression de Poisson avec sur-abondance de zéros](https://scj-robin.github.io/td/TD1.pdf)
 * Données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/td/GoldenRedfish.csv) 
 
+##### TD2 : 
+
+* Sujet 1 : [Analyse d'un déplacement animal par chaîne de Markov cachée]()
+* Données 1 : [Déplacement d'un zèbre](https://scj-robin.github.io/td/dryad_zebra.csv) 
+
+* Sujet 2 : [Structure d'un réseau trophique]()
+* Données 2 : [Réseau trophique chilien](https://scj-robin.github.io/td/chilean_TI.csv) et [caractéristiques des espèces](https://scj-robin.github.io/td/chilean_metadata.csv)
+
 ----
 
 #### Annales
