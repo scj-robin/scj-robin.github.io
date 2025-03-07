@@ -74,8 +74,8 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 
 Au choix
 
-* Sujet 1 : [Analyse d'un déplacement animal par chaîne de Markov cachée](), données 1 : [Déplacement d'un zèbre](https://scj-robin.github.io/td/dryad_zebra.csv) 
-* Sujet 2 : [Structure d'un réseau trophique](), données 2 : [Réseau trophique chilien](https://scj-robin.github.io/td/chilean_TI.csv) et [caractéristiques des espèces](https://scj-robin.github.io/td/chilean_metadata.csv)
+* Sujet 1 : [Analyse d'un déplacement animal par chaîne de Markov cachée](https://scj-robin.github.io/td/TD2a.pdf), données 1 : [Déplacement d'un zèbre](https://scj-robin.github.io/td/dryad_zebra.csv) 
+* Sujet 2 : [Structure d'un réseau trophique](https://scj-robin.github.io/td/TD2b.pdf), données 2 : [Réseau trophique chilien](https://scj-robin.github.io/td/chilean_TI.csv) et [caractéristiques des espèces](https://scj-robin.github.io/td/chilean_metadata.csv)
 
 ----
 
