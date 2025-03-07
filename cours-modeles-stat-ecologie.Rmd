@@ -68,14 +68,14 @@ L'examen aura lieu **le 24/03 de 10h à 12h**.
 
 ##### TD1 : 
 
-* Sujet : [Régression de Poisson avec sur-abondance de zéros](https://scj-robin.github.io/td/TD1.pdf), données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/td/GoldenRedfish.csv) 
+* Sujet 1 : [Régression de Poisson avec sur-abondance de zéros](https://scj-robin.github.io/td/TD1.pdf), données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/td/GoldenRedfish.csv) 
 
 ##### TD2 : 
 
 Au choix
 
-* Sujet 1 : [Analyse d'un déplacement animal par chaîne de Markov cachée](https://scj-robin.github.io/td/TD2a.pdf), données : [Déplacement d'un zèbre](https://scj-robin.github.io/td/dryad_zebra.csv) 
-* Sujet 2 : [Structure d'un réseau trophique](https://scj-robin.github.io/td/TD2b.pdf), données : [Réseau trophique chilien](https://scj-robin.github.io/td/chilean_TI.csv) et [caractéristiques des espèces](https://scj-robin.github.io/td/chilean_metadata.csv)
+* Sujet 2 : [Analyse d'un déplacement animal par chaîne de Markov cachée](https://scj-robin.github.io/td/TD2a.pdf), données : [Déplacement d'un zèbre](https://scj-robin.github.io/td/dryad_zebra.csv) 
+* Sujet 3 : [Structure d'un réseau trophique](https://scj-robin.github.io/td/TD2b.pdf), données : [Réseau trophique chilien](https://scj-robin.github.io/td/chilean_TI.csv) et [caractéristiques des espèces](https://scj-robin.github.io/td/chilean_metadata.csv)
 
 ----
 
