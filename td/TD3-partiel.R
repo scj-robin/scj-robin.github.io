@@ -39,3 +39,4 @@ Mstep <- function(data, veStep){
 }
 
 mStep <- Mstep(data=data, veStep=veStep)
+veStep <- VEstep(data=data, mStep=mStep, veStep=veStep)

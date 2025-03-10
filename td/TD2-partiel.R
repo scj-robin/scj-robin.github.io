@@ -24,7 +24,7 @@ eStep <- list(tau=tau, eta=eta)
 Forward <- function(data, mStep){
   n <- nrow(data$Y); K <- length(mStep$nu)
   phi <- t(sapply(1:n, function(t){sapply(1:K, function(k){
-    dmvnorm(data$Y[t, ], mean=mStep$mu[k, ], sigma=mStep$sigma[k, , ])
+    mvtnorm::dmvnorm(data$Y[t, ], mean=mStep$mu[k, ], sigma=mStep$sigma[k, , ])
   })}))
   F <- matrix(NA, n, K)
   F[1, ] <- mStep$nu * phi[1, ]
