@@ -13,7 +13,7 @@ output:
 
 <br>
 
-- [Markov-switching (discrete-time) Hawkes process](slides/Lancaster-2506.pdf), SOR-i seminar, Lancaster University (jun'25)
+- [Markov-switching (discrete-time) Hawkes process](slides/Lancaster-2506.pdf), STOR-I seminar, Lancaster University (jun'25)
 
 - [Segmentation and classification of a Hawkes process](slides/RMR2024-2406.pdf), Rencontres Mathématiques de Rouen (Jun'24)
 
