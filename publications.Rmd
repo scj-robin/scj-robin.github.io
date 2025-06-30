@@ -20,8 +20,6 @@ output:
 - Stoehr, J., Robin, S. (2024). *Composite likelihood inference for the Poisson log-normal
 model*. [arXiv:2402.14390](https://arxiv.org/abs/2402.14390). 
 
-- Le Minh, T., Donnet, S, Massol, F., & Robin, S. (2023). *Hoeffding-type decomposition for U-statistics on bipartite networks*. [arXiv:2308.14518](https://arxiv.org/abs/2308.14518), to appear in Electronic Journal of Statistics.
-
 - Dion-Blanc, C., Lebarbier, E., & Robin, S. (2023). *Multiple change-point detection for Poisson processes*. [arXiv:2302.09103](https://arxiv.org/abs/2302.09103). 
 
 <br>
@@ -29,6 +27,8 @@ model*. [arXiv:2402.14390](https://arxiv.org/abs/2402.14390).
 ### Published articles
 
 ##### Recent papers: 
+
+- Le Minh, T., Donnet, S, Massol, F., & Robin, S. (2025). *Hoeffding-type decomposition for U-statistics on bipartite networks*. Electronic Journal of Statistics, (9) 2829–2875. [arXiv:2308.14518](https://arxiv.org/abs/2308.14518).
 
 - Godichon-Baggioni, A., & Robin, S. (2024). *A robust model-based clustering based on the geometric median and the Median Covariation Matrix*. Statistics and Computing 34-55. [arXiv:2211.08131](https://arxiv.org/abs/2211.08131).
 
