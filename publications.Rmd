@@ -15,6 +15,8 @@ output:
 
 ### Submitted papers
 
+- Metodiev, M., Perrot-Dockès, M., Ouadah, S., Fosdick, B. K., Robin, S., Latouche, P., Raftery, A. E. (2024). *A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates*. [arXiv:2411.04520](https://arxiv.org/pdf/2411.04520).
+
 - Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2024). *Online and Offline Robust Multivariate Linear Regression*. [arXiv:2404.19496](https://arxiv.org/abs/2404.19496).
 
 - Stoehr, J., Robin, S. (2024). *Composite likelihood inference for the Poisson log-normal
