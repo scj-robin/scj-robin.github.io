@@ -52,7 +52,7 @@ output:
 - Chiquet, J., Mariadassou, M., & Robin, S. (2021). *The Poisson-lognormal model as a versatile framework for the joint analysis of species abundances*. Frontiers in Ecology and Evolution, 9, 588292. 
 [bioRxiv:2020.10.07.329383](https://www.biorxiv.org/content/10.1101/2020.10.07.329383v1).
 
-- Facon, B., Hafsi, A., Charlery De La Masseliere, M., Robin, S., Massol, F., Dubart, M., ... & Ravigné, V. (2021). *Joint species distributions reveal the combined effects of host plants, abiotic factors and species competition as drivers of species abundances in fruit flies*. Ecology Letters, 24(9), 1905-1916.
+- Facon, B., Hafsi, A., Charlery De La Masselière, M., Robin, S., Massol, F., Dubart, M., ... & Ravigné, V. (2021). *Joint species distributions reveal the combined effects of host plants, abiotic factors and species competition as drivers of species abundances in fruit flies*. Ecology Letters, 24(9), 1905-1916.
 [bioRxiv:2020.12.07.414326](https://www.biorxiv.org/content/10.1101/2020.12.07.414326v4).
 
 </br>
