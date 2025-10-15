@@ -22,6 +22,8 @@ navbar:
         icon: fab fa-r-project
       - text: "Position"
         href: positions.html
+      - text: "PhD students"
+        href: phd-students.html
 
   - text: "Teachings"
     icon: fa-laptop

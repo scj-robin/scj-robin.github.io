@@ -1,0 +1,58 @@
+---
+title: "PhD Students"
+output: 
+  html_document:
+   toc: false
+   logo: images/LogoSULPSM.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br>
+
+## Current PhD students
+
+- Barbara Bricout : *Imputation models for the monitoring of waterbird populations*, since Feb 2023, with S. Donnet (INRAE), Thomas Galewski (Tour du Valat), Pierre Defos Du Rau (OFB) and Laura Dami (Tour du Valat).
+
+- Bixuan Liu : *Identifiability and inference of autoregressive and Lotka-Volterra models*, since september 2024, with Chi Tran Viet (INRIA)
+
+- Paul Guillot : *Robust statistics and applications* since september 2024, with Antoine Godichon-Baggioni and Laure Sansonnet (Sorbonne Université)
+
+## Former PhD students
+
+Backward in time:
+
+- Tam Le Minh : Post-Doc INRIA Grenoble (https://tam-leminh.github.io/)
+
+- Raphaëlle Momal : Clinical Data Scientist (Owkin)
+
+- Paul Bastide : Junior Researcher at CNRS/Université Paris Cité (https://pbastide.github.io/)
+
+- Loïc Schwaller : graphic & motion designer (https://www.behance.net/loicschwaller#)
+
+- Julie Aubert : Resear Ingenee at INRAE (https://mia-ps.inrae.fr/julie-aubert)
+
+- Souhil Chakar : PRAG at université de Strasbourg
+
+- Elisabeta Bonafede : Clinical Operation Manager and Statistician at Yghea
+
+- Antoine Channarond : Assistant Professor at université de Rouen (https://lmrs.univ-rouen.fr/fr/persopage/antoine-channarond)
+
+- Alice Cleynen : Senrio Researcher at DR CNRS (https://alice.cleynen.fr/)
+
+- Caroline Bérard : Assistant Professor at université de Rouen
+
+- Stevenn Volant : Research Ingeneer at Institut Pasteur (https://research.pasteur.fr/fr/member/stevenn-volant/)
+
+- Guillem Rigaill : Senrio Researcher at INRAE (http://www.math-evry.cnrs.fr/members/grigaill/welcome)
+
+- Alain Célisse : Professor at université Panthéon-Sorbonne (https://www.pantheonsorbonne.fr/page-perso/alain.celisse%40
+
+- Tristan Mary-Huard : Researcher at INRAE (https://mia-ps.inrae.fr/tristan-mary-huard)
+
+- Paul Delmar : Senior Researcher at Roche
+
+- Frédéric Mortier : Senior Researcher at CIRAD (https://agents.cirad.fr/frederic.mortier)
