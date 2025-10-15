@@ -19,7 +19,7 @@ output:
 
 - Bixuan Liu : *Identifiability and inference of autoregressive and Lotka-Volterra models*, since september 2024, with Chi Tran Viet (INRIA)
 
-- Paul Guillot : *Robust statistics and applications* since september 2024, with Antoine Godichon-Baggioni and Laure Sansonnet (Sorbonne Université)
+- Paul Guillot : *Robust statistics and applications*, since september 2024, with Antoine Godichon-Baggioni and Laure Sansonnet (Sorbonne Université)
 
 ## Former PhD students
 
