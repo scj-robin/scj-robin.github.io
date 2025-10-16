@@ -25,34 +25,34 @@ output:
 
 Backward in time:
 
-- Tam Le Minh : Post-Doc INRIA Grenoble (https://tam-leminh.github.io/)
+- Tam Le Minh : https://tam-leminh.github.io/
 
-- Raphaëlle Momal : Clinical data scientist at Owkin
+- Raphaëlle Momal 
 
-- Paul Bastide : Junior Researcher at CNRS/Université Paris Cité (https://pbastide.github.io/)
+- Paul Bastide : https://pbastide.github.io/
 
-- Loïc Schwaller : Graphic & Motion Designer (https://www.behance.net/loicschwaller#)
+- Loïc Schwaller : https://www.behance.net/loicschwaller#
 
-- Julie Aubert : Resear Ingineer at INRAE (https://mia-ps.inrae.fr/julie-aubert)
+- Julie Aubert : https://mia-ps.inrae.fr/julie-aubert
 
-- Souhil Chakar : PRAG at Université de Strasbourg
+- Souhil Chakar
 
-- Elisabeta Bonafede : Clinical Operation Manager and Statistician at Yghea
+- Elisabeta Bonafede
 
-- Antoine Channarond : Assistant Professor at Université de Rouen (https://lmrs.univ-rouen.fr/fr/persopage/antoine-channarond)
+- Antoine Channarond : https://lmrs.univ-rouen.fr/fr/persopage/antoine-channarond
 
-- Alice Cleynen : Senior Researcher at DR CNRS (https://alice.cleynen.fr/)
+- Alice Cleynen : https://alice.cleynen.fr/
 
-- Caroline Bérard : Assistant Professor at université de Rouen
+- Caroline Bérard
 
-- Stevenn Volant : Research Ingineer at Institut Pasteur (https://research.pasteur.fr/fr/member/stevenn-volant/)
+- Stevenn Volant : https://research.pasteur.fr/fr/member/stevenn-volant/
 
-- Guillem Rigaill : Senior Researcher at INRAE (http://www.math-evry.cnrs.fr/members/grigaill/welcome)
+- Guillem Rigaill : http://www.math-evry.cnrs.fr/members/grigaill/welcome
 
-- Alain Célisse : Professor at université Panthéon-Sorbonne (https://www.pantheonsorbonne.fr/page-perso/alain.celisse%40
+- Alain Célisse : https://www.pantheonsorbonne.fr/page-perso/alain.celisse%40
 
-- Tristan Mary-Huard : Researcher at INRAE (https://mia-ps.inrae.fr/tristan-mary-huard)
+- Tristan Mary-Huard : https://mia-ps.inrae.fr/tristan-mary-huard
 
-- Paul Delmar : Senior Researcher at Roche
+- Paul Delmar 
 
-- Frédéric Mortier : Senior Researcher at CIRAD (https://agents.cirad.fr/frederic.mortier)
+- Frédéric Mortier : https://agents.cirad.fr/frederic.mortier
