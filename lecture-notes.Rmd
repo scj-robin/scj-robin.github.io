@@ -17,5 +17,5 @@ output:
 
 [Models with Hidden Structure](notes/ModelsHiddenStruct-Biology-29jan21.pdf) (with applications to genomics and ecology): Master 2 "Mathématiques pour les sciences du vivant", université Paris-Saclay (Jan'20).
  
-[Latent variable models in ecology and their inference via EM algorithm its extensions](notes/DGR25Draft.pdf): draft of a book with Sophie Donnet and Pierre Gloaguen 
+[Latent Variable Models in Ecology](notes/DGR25Draft.pdf) and their Inference via EM algorithm its Extensions: draft of a book with Sophie Donnet and Pierre Gloaguen 
  
