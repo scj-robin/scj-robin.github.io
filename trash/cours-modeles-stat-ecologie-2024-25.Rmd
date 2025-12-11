@@ -1,0 +1,118 @@
+---
+title: "Modèles à variables latentes pour l'écologie"
+output: 
+  html_document:
+   toc: false
+   logo: images/LogoSULPSM.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br>
+
+## Modèles à variables latentes pour l'écologie
+
+L'écologie s'intéresse aux relations que les espèces vivantes entretiennent entre elles et avec leur milieu. L'analyse et la compréhension de ces interactions passe fréquemment par une modélisation statistique impliquant des variables latentes (c'est-à-dire non observées) visant à décrire les structures et les processus qui sous-tendent ces interactions.
+
+L'objectif de ce cours est de présenter certains de ces modèles comme les modèles de distributions (jointes) d'espèces ou les modèles de réseaux écologiques. Les modèles les plus simples sont des modèles linéaires généralisés, éventuellement mixtes. Les modèles plus complexes posent des problèmes d'inférence spécifiques qui peuvent être surmontées grâce à des généralisations de l'algorithme EM reposant sur des approximations variationnelles. Un des objectifs principaux de ce cours est la bonne compréhension de tels modèles et la définition d'un algorithme permettant d'en inférer les paramètres.
+
+Nous utiliserons également la représentation de ces modèles selon le formalisme des modèles graphiques qui permettent de représenter la structure de dépendance entre les différentes variables (observées ou latentes) et de d’anticiper la complexité de l’algorithme d’inférence. Cette représentation est par ailleurs pertinente pour traiter le problème de l’inférence de réseaux écologiques, dans lequel il s’agit notamment de distinguer entre interactions directes ou indirectes entre les espèces.
+
+Certains des modèles présentés seront mis en oeuvre lors de séances de travaux dirigés sur machine. Ce cours vise notamment à apprendre à définir un modèle pertinent pour répondre à une question écologique, concevoir un algorithme permettant d'en estimer les paramètres et implémenter cet algorithme.
+
+#### Prérequis 
+Notions fondamentales de probabilités et statistique, connaissance du langage R.
+
+#### Thèmes abordés
+
+- Modèles à variables latentes, modèles graphiques.
+- Modèles de distribution d'espèces, modèles de réseaux écologiques.
+
+### Déroulement pour l'année 2024-25
+
+#### Planning
+
+Les cours auront lieu les **lundis matin de 8h30 à 12h30**.
+
+Date               | Salle
+------------------ | -------------
+20/01              | 14--24 / 301   
+03/02              | 14--24 / 107   
+10/02 (TD)         | Atrium / 119 <!-- 14--24 / 107 -->
+17/02              | 14- 24 / 107   
+03/03              | 24- 34 / 101   
+10/03 (TD)         | Atrium / 115 <!-- 24--34 / 101 -->
+17/03              | 24--34 / 101   
+24/03 (**examen**) | 24--34 / 101   
+
+L'examen aura lieu **le 24/03 de 10h à 12h**.
+
+<!-- * en salle 24-34/309 : les 16, 23, 30 janvier, 6 et 13 février, -->
+<!-- * en salle 14-24/201 : les 27 février, 5, 12, 19 et 26 mars. -->
+
+<!-- Le planning est également disponible [ ici](https://m2stat.sorbonne-universite.fr/enseignement/agenda/) et [là](https://isup.sorbonne-universite.fr/plannings-2023-2024). Les salles de TD seront précisées au fur et à mesure. -->
+
+----
+
+#### Supports associés
+
+* Des notes de cours sur l'inférence des modèles à variables latentes sont disponibles [ici](https://scj-robin.github.io/lecture-notes.html).
+* Les supports d'une série de cours doctoraux sur certains des modèles présentés en cours sont disponibles [ici](https://scj-robin.github.io/lecture-slides.html).
+
+----
+
+#### TD : Sujets et données 
+
+##### TD1 : 
+
+* Sujet 1 : [Régression de Poisson avec sur-abondance de zéros](https://scj-robin.github.io/td/TD1.pdf), données : [Abondance de sébastes dorés en mer de Barents](https://scj-robin.github.io/td/GoldenRedfish.csv) 
+
+##### TD2 : au choix
+
+* Sujet 2 : [Analyse d'un déplacement animal par chaîne de Markov cachée](https://scj-robin.github.io/td/TD2.pdf), données : [Déplacement d'un zèbre](https://scj-robin.github.io/td/dryad_zebra.csv), code R partiel :  [TD2.R](https://scj-robin.github.io/td/TD2-partiel.R) (attention à la syntaxe ligne 27 : vise à utiliser la syntaxe du package *mvtnorm*)
+* Sujet 3 : [Structure d'un réseau trophique](https://scj-robin.github.io/td/TD3.pdf), données : [Réseau trophique chilien](https://scj-robin.github.io/td/chilean_TI.csv) et [caractéristiques des espèces](https://scj-robin.github.io/td/chilean_metadata.csv), code R partiel : [TD3.R](https://scj-robin.github.io/td/TD3-partiel.R)
+
+----
+
+#### Annales
+
+* 2021-22 :  [Sujet](https://scj-robin.github.io/examples/Examen2022-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2022-Corrige.pdf) (cet examen était long et assez difficile)
+* 2022-23 :  [Sujet](https://scj-robin.github.io/examples/Examen2023-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2023-Corrige.pdf) 
+
+----
+
+#### Exemples présentés en cours
+
+##### Cours 1 : 
+
+*  [Nombre de satellites de crabes femelles](https://scj-robin.github.io/examples/HorseshoeGLMpoisson.html) (régression de Poisson avec un terme d'offset) 
+*  [Présence/absence de flétan en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMbernoulli.html) (régression logistique)
+  
+##### Cours 2 : 
+
+*  [Evolution de la masse corporelle chez les mammifères](https://scj-robin.github.io/examples/CarnivoreBodymass.html) (mouvement brownien le long des branches de l'arbre phylogénétique) 
+*  [Abondance de plie canadienne en mer de Barents](https://scj-robin.github.io/examples/BarentsGLMnegbin) (modèle Poisson-Gamma = régression binomiale négative = régression poissonnienne surdispersée)
+
+##### Cours 3 : 
+
+*  [Modélisation du déplacement d'un zèbre](https://scj-robin.github.io/examples/PEL19-zebra.html) (modèle de Markov caché sur la vitesse et l'angle du déplacement) 
+*  [Modélisation du déplacement d'un élan](https://scj-robin.github.io/examples/BarentsGLMnegbin) (modèle de Markov caché sur la vitesse, avec covariable)
+*  [Traits morphologiques de lézards](https://scj-robin.github.io/examples/Lizards-PhyloPCA) (ACP phylogénétique, ACP probabiliste)
+
+##### Cours 4 : 
+
+####### Données de réseaux
+
+*  [Modélisation d'un réseau social](https://scj-robin.github.io/examples/KarateSBM.html) (modèle à blocs stochastiques binaire) 
+*  [Modélisation d'un réseau d'arbres](https://scj-robin.github.io/examples/TreeInteractions-SBM.html) (modèle à blocs stochastiques poissonnien sur le nombre de parasites communs avec et sans covariable) 
+*  [Modélisation d'un réseau hôtes(= arbres) / parasites (= champignons)](https://scj-robin.github.io/examples/FungiTreeInteractions-LBM.html) (modèle à blocs latents binaire)
+*  [Modélisation d'un réseau plantes / animaux](https://scj-robin.github.io/examples/PlantAnimals-MultipartiteLBM.html) (modèle à blocs latents binaire)
+
+####### Données d'abondances
+
+*  [Modélisation conjointe de données d'abondances](https://scj-robin.github.io/examples/BarentsPLN) (modèle à Poisson log-normal avec et sans covariable)
+*  [Inférence de réseaux d'interactions directes entre espèces](https://scj-robin.github.io/examples/BarentsPLNnetwork.html) (modèle à Poisson log-normal pour une matrice de précision creuse, avec et sans covariable)
+
