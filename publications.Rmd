@@ -40,19 +40,19 @@ output:
 - Ouadah, S., Latouche, P., & Robin, S. (2022). *Motif-based tests for bipartite networks*. [Electronic Journal of Statistics, 16(1), 293-330](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-1/Motif-based-tests-for-bipartite-networks/10.1214/21-EJS1944.full). 
 [arXiv:2101.11381](https://arxiv.org/abs/2101.11381).
 
-- Morlon, H., Robin, S., & Hartig, F. (2022). *Studying speciation and extinction dynamics from phylogenies: addressing identifiability issues*. Trends in Ecology & Evolution. [bioRxiv:2020.07.03.185074](https://www.biorxiv.org/content/10.1101/2020.07.03.185074v1).
+- Morlon, H., Robin, S., & Hartig, F. (2022). *Studying speciation and extinction dynamics from phylogenies: addressing identifiability issues*. [Trends in Ecology & Evolution](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00027-1). [bioRxiv:2020.07.03.185074](https://www.biorxiv.org/content/10.1101/2020.07.03.185074v1).
 
 - Momal, R., Robin, S., & Ambroise, C. (2021). *Accounting for missing actors in interaction network inference from abundance data*. Journal of the Royal Statistical Society Series C: Applied Statistics, 70(5), 1230-1258.
 [arXiv:2007.14299](https://arxiv.org/abs/2007.14299).
 
-- Donnet, S., & Robin, S. (2021). *Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates*. Journal of the Royal Statistical Society Series C: Applied Statistics, 70(4), 858-885. 
+- Donnet, S., & Robin, S. (2021). *Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates*. [Journal of the Royal Statistical Society Series C: Applied Statistics, 70(4), 858-885](https://academic.oup.com/jrsssc/article/70/5/1230/7033983?login=false). 
 [arXiv:1707.07971 (unpublished complete version)](https://arxiv.org/abs/1707.07971).
 [arXiv:1907.09771](https://arxiv.org/abs/1907.09771).
 
-- Chiquet, J., Mariadassou, M., & Robin, S. (2021). *The Poisson-lognormal model as a versatile framework for the joint analysis of species abundances*. Frontiers in Ecology and Evolution, 9, 588292. 
+- Chiquet, J., Mariadassou, M., & Robin, S. (2021). *The Poisson-lognormal model as a versatile framework for the joint analysis of species abundances*. [Frontiers in Ecology and Evolution, 9, 588292](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.588292/full). 
 [bioRxiv:2020.10.07.329383](https://www.biorxiv.org/content/10.1101/2020.10.07.329383v1).
 
-- Facon, B., Hafsi, A., Charlery De La Masselière, M., Robin, S., Massol, F., Dubart, M., ... & Ravigné, V. (2021). *Joint species distributions reveal the combined effects of host plants, abiotic factors and species competition as drivers of species abundances in fruit flies*. Ecology Letters, 24(9), 1905-1916.
+- Facon, B., Hafsi, A., Charlery De La Masselière, M., Robin, S., Massol, F., Dubart, M., ... & Ravigné, V. (2021). *Joint species distributions reveal the combined effects of host plants, abiotic factors and species competition as drivers of species abundances in fruit flies*. [Ecology Letters, 24(9), 1905-1916](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13825).
 [bioRxiv:2020.12.07.414326](https://www.biorxiv.org/content/10.1101/2020.12.07.414326v4).
 
 </br>
