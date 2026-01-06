@@ -42,7 +42,7 @@ output:
 
 - Morlon, H., Robin, S., & Hartig, F. (2022). *Studying speciation and extinction dynamics from phylogenies: addressing identifiability issues*. [Trends in Ecology & Evolution](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00027-1). [bioRxiv:2020.07.03.185074](https://www.biorxiv.org/content/10.1101/2020.07.03.185074v1).
 
-- Momal, R., Robin, S., & Ambroise, C. (2021). *Accounting for missing actors in interaction network inference from abundance data*. Journal of the Royal Statistical Society Series C: Applied Statistics, 70(5), 1230-1258.
+- Momal, R., Robin, S., & Ambroise, C. (2021). *Accounting for missing actors in interaction network inference from abundance data*. [Journal of the Royal Statistical Society Series C: Applied Statistics, 70(5), 1230-1258](https://academic.oup.com/jrsssc/article/70/5/1230/7033983?login=false).
 [arXiv:2007.14299](https://arxiv.org/abs/2007.14299).
 
 - Donnet, S., & Robin, S. (2021). *Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates*. [Journal of the Royal Statistical Society Series C: Applied Statistics, 70(4), 858-885](https://academic.oup.com/jrsssc/article/70/5/1230/7033983?login=false). 
