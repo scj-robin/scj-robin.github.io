@@ -37,8 +37,8 @@ Notions fondamentales de probabilités et statistique, connaissance du langage R
 
 Les cours auront lieu les **lundis matin de 9h00 à 12h00** 
 
-* en salle 24-34/103 jusqu'au 23/02 
-* puis en salle 14-24/107 à partir du 09/03.
+* en salle 24-34/103 jusqu'au 23/02, puis
+* en salle 14-24/107 à partir du 09/03.
 
 Le planning est également disponible [ici](https://ms2a.lpsm.paris/enseignements/agenda/). Les salles de TD seront précisées au fur et à mesure. 
 
