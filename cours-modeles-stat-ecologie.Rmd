@@ -31,7 +31,7 @@ Notions fondamentales de probabilités et statistique, connaissance du langage R
 - Modèles à variables latentes, modèles graphiques.
 - Modèles de distribution d'espèces, modèles de réseaux écologiques.
 
-### Déroulement pour l'année 2024-25
+### Déroulement pour l'année 2025-26
 
 #### Planning
 
