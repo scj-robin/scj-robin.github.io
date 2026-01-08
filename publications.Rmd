@@ -15,6 +15,8 @@ output:
 
 ### Submitted papers
 
+- Guillot P., Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2026). . *Online robust covariance matrix estimation and outlier detection*. [arXiv:2601.03957](https://arxiv.org/abs/2601.03957).
+
 - Bonnet, A., Robin, S. (2025). *A Markov switching discrete-time Hawkes process: application to the monitoring of bats behavior*. [arXiv:2507.20153](https://arxiv.org/pdf/2507.20153).
 
 - Metodiev, M., Perrot-Dockès, M., Ouadah, S., Fosdick, B. K., Robin, S., Latouche, P., Raftery, A. E. (2024). *A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates*. [arXiv:2411.04520](https://arxiv.org/pdf/2411.04520).
