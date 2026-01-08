@@ -15,7 +15,7 @@ output:
 
 ### Submitted papers
 
-- Guillot P., Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2026). . *Online robust covariance matrix estimation and outlier detection*. [arXiv:2601.03957](https://arxiv.org/abs/2601.03957).
+- Guillot P., Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2026). *Online robust covariance matrix estimation and outlier detection*. [arXiv:2601.03957](https://arxiv.org/abs/2601.03957).
 
 - Bonnet, A., Robin, S. (2025). *A Markov switching discrete-time Hawkes process: application to the monitoring of bats behavior*. [arXiv:2507.20153](https://arxiv.org/pdf/2507.20153).
 
