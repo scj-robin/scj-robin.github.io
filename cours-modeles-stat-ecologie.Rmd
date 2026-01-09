@@ -71,7 +71,7 @@ Les supports d'une série de cours doctoraux sur certains des modèles présent�
 
 ----
 
-#### Annales
+#### Annales d'examen
 
 * 2022-23 :  [Sujet](https://scj-robin.github.io/examples/Examen2023-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2023-Corrige.pdf) 
 * 2024-25 :  [Sujet](https://scj-robin.github.io/examples/Examen2025-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2025-Corrige.pdf) 
