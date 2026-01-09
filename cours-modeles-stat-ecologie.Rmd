@@ -47,7 +47,7 @@ Le planning est également disponible [ici](https://ms2a.lpsm.paris/enseignement
 
 #### Supports associés
 
-* Des notes de cours et un projet de livre sur l'inférence des modèles à variables latentes sont  disponibles [ici](https://scj-robin.github.io/notes/DGR25Draft.pdf).
+* Des notes de cours et un projet de livre sur l'inférence des modèles à variables latentes sont  disponibles [ici](https://scj-robin.github.io/lecture-notes.html).
 * Les supports d'une série de cours doctoraux sur certains des modèles présentés en cours sont disponibles [ici](https://scj-robin.github.io/lecture-slides.html).
 
 ----
