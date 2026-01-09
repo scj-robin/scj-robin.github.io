@@ -55,12 +55,6 @@ Les supports d'une série de cours doctoraux sur certains des modèles présent�
 
 ----
 
-#### TD : Sujets et données 
-
-##### TD1 : 
-
-----
-
 #### Exemples présentés en cours
 
 ##### Cours 1 : 
@@ -68,6 +62,12 @@ Les supports d'une série de cours doctoraux sur certains des modèles présent�
 ####### Données de réseaux
 
 ####### Données d'abondances
+
+----
+
+#### TD : Sujets et données 
+
+##### TD1 : 
 
 ----
 
