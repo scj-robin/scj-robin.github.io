@@ -73,6 +73,7 @@ et les supports d'une série de cours doctoraux sur certains des modèles prése
 
 ### Annales des examens passés
 
-* 2022-23 :  [Sujet](https://scj-robin.github.io/examples/Examen2023-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2023-Corrige.pdf) 
-* 2024-25 :  [Sujet](https://scj-robin.github.io/examples/Examen2025-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2025-Corrige.pdf) 
+[Sujet](https://scj-robin.github.io/examples/Examen2023-Sujet.pdf) et [Corrigé](https://scj-robin.github.io/examples/Examen2023-Corrige.pdf) 2022-23 
+
+[Sujet](https://scj-robin.github.io/examples/Examen2025-Sujet.pdf) et [Corrigé](https://scj-robin.github.io/examples/Examen2025-Corrige.pdf) 2024-25 
 
