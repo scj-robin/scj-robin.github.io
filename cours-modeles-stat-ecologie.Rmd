@@ -47,7 +47,7 @@ Le planning est également disponible [ici](https://ms2a.lpsm.paris/enseignement
 
 #### Supports associés
 
-Des notes de cours sont disponibles [ici](https://notes/ModelsHiddenStruct-Biology-29jan21.pdf).
+Des notes de cours sont disponibles [ici](https://scj-robin.github.io/notes/ModelsHiddenStruct-Biology-29jan21.pdf).
 
 Un projet de livre sur l'inférence des modèles à variables latentes est disponibles [ici](https://scj-robin.github.io/notes/DGR25Draft.pdf).
 
