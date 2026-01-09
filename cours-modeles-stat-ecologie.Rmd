@@ -31,6 +31,8 @@ Notions fondamentales de probabilités et statistique, connaissance du langage R
 - Modèles à variables latentes, modèles graphiques.
 - Modèles de distribution d'espèces, modèles de réseaux écologiques.
 
+----
+
 ### Déroulement pour l'année 2025-26
 
 #### Planning
@@ -43,33 +45,27 @@ Les **séances de TD** auront lieu les 26 janvier (salle Atrium 123), 16 févrie
 
 Le planning est également disponible [ici](https://ms2a.lpsm.paris/enseignements/agenda/). 
 
-----
-
 #### Supports associés
 
-Des notes de cours sont disponibles [ici](https://scj-robin.github.io/notes/ModelsHiddenStruct-Biology-29jan21.pdf).
-
-Un projet de livre sur l'inférence des modèles à variables latentes est disponibles [ici](https://scj-robin.github.io/notes/DGR25Draft.pdf).
-
-Les supports d'une série de cours doctoraux sur certains des modèles présentés en cours sont disponibles [ici](https://scj-robin.github.io/lecture-slides.html).
-
-----
+Des notes de cours sont disponibles [ici](https://scj-robin.github.io/notes/ModelsHiddenStruct-Biology-29jan21.pdf), 
+un projet de livre sur l'inférence des modèles à variables latentes est disponible [ici](https://scj-robin.github.io/notes/DGR25Draft.pdf), 
+et les supports d'une série de cours doctoraux sur certains des modèles présentés en cours sont disponibles [ici](https://scj-robin.github.io/lecture-slides.html).
 
 #### Exemples présentés en cours
 
-##### Cours 1 : 
+<!-- ##### Cours 1 : -->
 
-####### Données de réseaux
+<!-- ####### Données de réseaux -->
 
-####### Données d'abondances
-
-----
+<!-- ####### Données d'abondances -->
 
 #### TD : Sujets et données 
 
-##### TD1 : 
+<!-- ##### TD1 : -->
 
-----
+<!-- ##### TD2 : -->
+
+<!-- ##### TD3 : -->
 
 #### Annales d'examen
 
