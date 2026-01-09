@@ -45,7 +45,9 @@ Les **séances de TD** auront lieu les 26 janvier (salle Atrium 123), 16 févrie
 
 Le planning est également disponible [ici](https://ms2a.lpsm.paris/enseignements/agenda/). 
 
-#### Supports associés
+----
+
+#### Supports de cours
 
 Des notes de cours sont disponibles [ici](https://scj-robin.github.io/notes/ModelsHiddenStruct-Biology-29jan21.pdf), 
 un projet de livre sur l'inférence des modèles à variables latentes est disponible [ici](https://scj-robin.github.io/notes/DGR25Draft.pdf), 
@@ -67,7 +69,9 @@ et les supports d'une série de cours doctoraux sur certains des modèles prése
 
 <!-- ##### TD3 : -->
 
-#### Annales d'examen
+----
+
+### Annales des examens passés
 
 * 2022-23 :  [Sujet](https://scj-robin.github.io/examples/Examen2023-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2023-Corrige.pdf) 
 * 2024-25 :  [Sujet](https://scj-robin.github.io/examples/Examen2025-Sujet.pdf), [Corrigé](https://scj-robin.github.io/examples/Examen2025-Corrige.pdf) 
