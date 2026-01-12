@@ -56,9 +56,9 @@ et les supports d'une série de cours doctoraux sur certains des modèles prése
 #### Exemples présentés en cours
 
 * Cours 1 : 
-[Vitesse de cours d'herbivores et de carivores](examples/CarniHerbiLM.html), 
+[Vitesse de courss d'herbivores et de carnivores](examples/CarniHerbiLM.html), 
 [Présence/absence de flétan en mer de Barents](examples/BarentsGLMbernoulli.html), 
-[Nombre de partenaires chez les crabes](examples/HorseshoeGLMpoisson.html)
+[Nombre de partenaires chez une espèce de crabe](examples/HorseshoeGLMpoisson.html)
 
 <!-- ####### Données de réseaux -->
 
