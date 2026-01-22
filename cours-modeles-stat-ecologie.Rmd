@@ -77,7 +77,6 @@ et les supports d'une série de cours doctoraux sur certains des modèles prése
 Le [sujet](td/TD1.pdf) et les [données](GoldenRedfish.csv).
 -->
 
-
 <!-- ##### TD2 : -->
 
 <!-- ##### TD3 : -->
