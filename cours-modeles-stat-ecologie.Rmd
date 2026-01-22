@@ -71,10 +71,11 @@ et les supports d'une série de cours doctoraux sur certains des modèles prése
 
 #### TD : Sujets et données 
 
+<!--
 ##### TD1 : Modélisation d'abondance par des modèles de Poisson avec surcroit de zéros
 
 Le [sujet](td/TD1.pdf) et les [données](GoldenRedfish.csv).
-
+-->
 
 
 <!-- ##### TD2 : -->
