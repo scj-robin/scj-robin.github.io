@@ -63,11 +63,15 @@ et les supports d'une série de cours doctoraux sur certains des modèles prése
 * Cours 2 (modèles à variables latentes) : 
 [Présence et abondance de la morue en mer de Barens](examples/BarentsGLMzip.html), 
 [Evolution de la masse des mammifères carnivores](examples/CarnivoreBodymass.html), 
-[Abondance de la plie en mer de Barens (avec surdispersion)](examples/BarentsGLMnegbin.html), 
+[Abondance de la plie en mer de Barens (avec surdispersion)](examples/BarentsGLMnegbin.html) 
 
 * Cours 3 (modèles de Markov caché) : 
 [Déplacement d'un élan](examples/ElkMovementFull.html), 
-[Déplacement d'un zèbre](examples/PEL19-zebra.html), 
+[Déplacement d'un zèbre](examples/PEL19-zebra.html) 
+
+* Cours 4 (modèles gaussiens multivariés) : 
+[ACP pour des traits morphologiques](examples/CESTES-PCA.html), 
+[ACP phylogénétique pour des traits morphologiques](examples/Lizards-PhyloPCA.html) 
 
 <!-- ####### Données de réseaux -->
 
