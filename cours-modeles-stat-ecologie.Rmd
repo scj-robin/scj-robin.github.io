@@ -61,7 +61,7 @@ et les supports d'une série de cours doctoraux sur certains des modèles prése
 [Nombre de partenaires chez une espèce de crabe](examples/HorseshoeGLMpoisson.html)
 
 * Cours 2 : modèles à variables latentes
-[Présence et abondance de la morue en mer de Barens](examples/BarentsGLMzip.html), 
+[Présence et abondance de la morue en mer de Barents](examples/BarentsGLMzip.html), 
 [Evolution de la masse des mammifères carnivores](examples/CarnivoreBodymass.html), 
 [Abondance de la plie en mer de Barens (avec surdispersion)](examples/BarentsGLMnegbin.html) 
 
