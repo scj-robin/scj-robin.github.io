@@ -39,9 +39,12 @@ Notions fondamentales de probabilités et statistique, connaissance du langage R
 
 Les enseignements auront lieu les **lundis matin de 9h00 à 12h00** 
 
-Les **cours** se tiendront en salle 24-34/103 jusqu'au 23 février, puis en salle 14-24/107 à partir du 09 mars.
+Les **cours** et les **séances de TD** se tiendront 
 
-Les **séances de TD** auront lieu les 26 janvier (salle Atrium 123), 16 février (salle Atrium 115) et 23 mars (salle Atrium 115). 
+* en salle 24-34/103 jusqu'au 23 février, 
+* puis en salle 14-24/107 à partir du 09 mars.
+
+<!-- Les **séances de TD** auront lieu les 26 janvier (salle Atrium 123), 16 février (salle Atrium 115) et 23 mars (salle Atrium 115). -->
 
 Le planning est également disponible [ici](https://ms2a.lpsm.paris/enseignements/agenda/). 
 
@@ -75,7 +78,6 @@ et les supports d'une série de cours doctoraux sur certains des modèles prése
 Modèles pour l'écologie des communautés
 [Modèle de distribution jointe d'espèces](examples/BarentsPLNintro.html), 
 [Modèle de réseau d'interactions](examples/KarateSBM.html), 
-
 
 <!-- ####### Données de réseaux -->
 
