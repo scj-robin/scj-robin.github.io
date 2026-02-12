@@ -15,6 +15,10 @@ output:
 
 ### Submitted papers
 
+- Bricout B., Dami L., Defos du Rau P., Donnet S., Galewski T., Robin S. (2026), *Inferring the presence and abundance of rare waterbirds species from scarce data*. [arXiv:2602.10673]{https://arxiv.org/abs/2602.10673}
+
+- Guillot P., Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2026). *Online robust covariance matrix estimation and outlier detection*. [arXiv:2601.03957](https://arxiv.org/abs/2601.03957).
+
 - Guillot P., Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2026). *Online robust covariance matrix estimation and outlier detection*. [arXiv:2601.03957](https://arxiv.org/abs/2601.03957).
 
 - Bonnet, A., Robin, S. (2025). *A Markov switching discrete-time Hawkes process: application to the monitoring of bats behavior*. [arXiv:2507.20153](https://arxiv.org/pdf/2507.20153).
