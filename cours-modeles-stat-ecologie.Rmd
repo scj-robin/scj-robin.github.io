@@ -92,6 +92,7 @@ Le [sujet](td/TD1.pdf) et les [données](td/GoldenRedfish.csv).
 ##### TD2 : Analyse d’un déplacement animal par chaîne de Markov cachée
 
 Le [sujet](td/TD2.pdf) et les [données](td/dryad_zebra.csv).
+Code pour la récurrence forward-backward en [R](td/Mouvement-HMM-FW.R) et en [python](td/Mouvement-HMM-FW.ipynb).
 
 <!-- ##### TD3 : -->
 
