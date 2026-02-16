@@ -89,7 +89,9 @@ Modèles pour l'écologie des communautés
 
 Le [sujet](td/TD1.pdf) et les [données](td/GoldenRedfish.csv).
 
-<!-- ##### TD2 : -->
+##### TD2 : Analyse d’un déplacement animal par chaîne de Markov cachée
+
+Le [sujet](td/TD2.pdf) et les [données](td/dryad_zebra.csv).
 
 <!-- ##### TD3 : -->
 
