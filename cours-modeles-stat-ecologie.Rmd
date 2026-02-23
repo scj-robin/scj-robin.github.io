@@ -80,8 +80,8 @@ Modèles pour l'écologie des communautés \
 [Modèle de réseau d'interactions](examples/KarateSBM.html), 
 
 **Cours 5 :** Modèles de réseaux d'interactions \
-[Modèl à blocs stochastiques (SBM) entre espèces d'arbres](examples/TreeInteractions-SBM.html), 
-[Modèl à blocs latents (LBM) entre espèces d'arbres et de champignons](examples/FungiTreeInteractions-LBM.html)  ; \
+[Modèle à blocs stochastiques (SBM) entre espèces d'arbres](examples/TreeInteractions-SBM.html), 
+[Modèle à blocs latents (LBM) entre espèces d'arbres et de champignons](examples/FungiTreeInteractions-LBM.html)  ; \
 Modèles de distribution jointe d'espèces \
 [Modèle Poisson log-normal (PLN) pour des espèces de poisson](examples/BarentsPLN.html) 
 
