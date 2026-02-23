@@ -58,26 +58,32 @@ et les supports d'une série de cours doctoraux sur certains des modèles prése
 
 #### Exemples présentés en cours
 
-* Cours 1 : rappel sur les modèles linéaires généralisés
+* Cours 1 : rappel sur les modèles linéaires généralisés :
 [Vitesse de courses d'herbivores et de carnivores](examples/CarniHerbiLM.html), 
 [Présence/absence de flétan en mer de Barents](examples/BarentsGLMbernoulli.html), 
 [Nombre de partenaires chez une espèce de crabe](examples/HorseshoeGLMpoisson.html)
 
-* Cours 2 : modèles à variables latentes
+* Cours 2 : modèles à variables latentes :
 [Présence et abondance de la morue en mer de Barents](examples/BarentsGLMzip.html), 
 [Evolution de la masse des mammifères carnivores](examples/CarnivoreBodymass.html), 
 [Abondance de la plie en mer de Barens (avec surdispersion)](examples/BarentsGLMnegbin.html) 
 
-* Cours 3 : modèles de Markov caché 
+* Cours 3 : modèles de Markov caché :
 [Déplacement d'un élan](examples/ElkMovementFull.html), 
 [Déplacement d'un zèbre](examples/PEL19-zebra.html) 
 
-* Cours 4 : modèles gaussiens multivariés
+* Cours 4 : modèles gaussiens multivariés :
 [ACP pour des traits morphologiques](examples/CESTES-PCA.html), 
 [ACP phylogénétique pour des traits morphologiques](examples/Lizards-PhyloPCA.html) ; \
-Modèles pour l'écologie des communautés
+Modèles pour l'écologie des communautés :
 [Modèle de distribution jointe d'espèces](examples/BarentsPLNintro.html), 
 [Modèle de réseau d'interactions](examples/KarateSBM.html), 
+
+* Cours 4 : modèles de réseaux d'interactions :
+[Modèl à blocs stochastiques (SBM) entre espèces d'arbres](examples/TreeInteractions-SBM.html), 
+[Modèl à blocs latents (LBM) entre espèces d'arbres et de champignons](examples/FungiTreeInteractions-LBM.html)  ; \
+Modèles de distribution jointe d'espèces : 
+[Modèle Poisson log-normal (PLN) pour des espèces de poisson](examples/BarentsPLN.html) 
 
 <!-- ####### Données de réseaux -->
 
