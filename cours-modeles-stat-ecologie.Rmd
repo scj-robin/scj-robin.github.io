@@ -85,6 +85,10 @@ Modèles pour l'écologie des communautés \
 Modèles de distribution jointe d'espèces \
 [Modèle Poisson log-normal (PLN) pour des espèces de poisson](examples/BarentsPLN.html) 
 
+**Cours 6 :** Modèle Poisson log-normal : extensions \
+[Réduction de dimension (ACP)](examples/BarentsPLNacp.html), 
+[Inférence de réseau](examples/BarentsPLNnetwork.html) 
+
 <!-- ####### Données de réseaux -->
 
 <!-- ####### Données d'abondances -->
