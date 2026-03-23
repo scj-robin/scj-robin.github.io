@@ -118,7 +118,7 @@ Modèles de distribution jointe d'espèces \
 
 ##### TD4 : Estimation de la richesse spécifique par modèle de mélange
 
-* Le [sujet](td/TD4.pdf), les [données](td/microbial.csv).
+* Le [sujet](td/TD4.pdf), les [données](td/microbial.csv) et les [données simulées](td/simul-n1000-K3-seed1.csv).
 
 *Rendu des travaux*
 
