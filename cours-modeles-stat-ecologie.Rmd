@@ -109,7 +109,7 @@ Modèles de distribution jointe d'espèces \
 
 * Le [sujet](td/TD3.pdf), les [données](td/chilean_TI.csv) et les [informations supplémentaires](td/chilean_metadata.csv).
 
-##### TD4 : Sujet et donné à venir
+##### TD4 : Estimation de la richesse spécifique par modèle de mélange
 
 *Rendu des travaux*
 
@@ -120,6 +120,8 @@ Modèles de distribution jointe d'espèces \
 * Le compte-rendu devra être envoyé par mail le lundi 24 mars à 12h30, au plus tard.
 
 * Seuls les travaux des binômes ou trinômes **effectivement présents** lors de cette séance seront acceptés.
+
+* Le [sujet](td/TD4.pdf), les [données](td/microbial.csv).
 
 
 ----
