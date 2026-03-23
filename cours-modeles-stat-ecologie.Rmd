@@ -126,7 +126,7 @@ Modèles de distribution jointe d'espèces \
 
 * Le code devra être commenté, notamment les lignes en lien direct avec les questions formelles du sujet.
 
-* Le compte-rendu devra être envoyé par mail le lundi 24 mars à 12h30, au plus tard.
+* Le compte-rendu devra être envoyé par mail le lundi 23 mars à 12h30, au plus tard.
 
 * Seuls les travaux des binômes ou trinômes **effectivement présents** lors de cette séance seront acceptés.
 
