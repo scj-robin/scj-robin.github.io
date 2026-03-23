@@ -102,21 +102,21 @@ Modèles de distribution jointe d'espèces \
 
 #### TD : Sujets et données 
 
-##### TD1 : Modélisation d'abondance par des modèles de Poisson avec surcroit de zéros
+**TD1 :** Modélisation d'abondance par des modèles de Poisson avec surcroit de zéros
 
 * Le [sujet](td/TD1.pdf) et les [données](td/GoldenRedfish.csv).
 
-##### TD2 : Analyse d’un déplacement animal par chaîne de Markov cachée
+**TD2 :** Analyse d’un déplacement animal par chaîne de Markov cachée
 
 * Le [sujet](td/TD2.pdf) et les [données](td/dryad_zebra.csv).
 
 * Le code pour la récurrence forward-backward en [R](td/Mouvement-HMM-FW.R) et en [python](td/Mouvement-HMM-FW.ipynb).
 
-##### TD3 : Structure d’un réseau trophique
+**TD3 :** Structure d’un réseau trophique
 
 * Le [sujet](td/TD3.pdf), les [données](td/chilean_TI.csv) et les [informations supplémentaires](td/chilean_metadata.csv).
 
-##### TD4 : Estimation de la richesse spécifique par modèle de mélange
+**TD4 :** Estimation de la richesse spécifique par modèle de mélange
 
 * Le [sujet](td/TD4.pdf), les [données](td/microbial.csv) et les [données simulées](td/simul-n1000-K3-seed1.csv).
 
