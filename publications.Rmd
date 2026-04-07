@@ -15,15 +15,11 @@ output:
 
 ### Submitted papers
 
-- Bricout B., Dami L., Defos du Rau P., Donnet S., Galewski T., Robin S. (2026), *Inferring the presence and abundance of rare waterbirds species from scarce data*. [arXiv:2602.10673]{https://arxiv.org/abs/2602.10673}
-
-- Guillot P., Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2026). *Online robust covariance matrix estimation and outlier detection*. [arXiv:2601.03957](https://arxiv.org/abs/2601.03957).
+- Bricout B., Dami L., Defos du Rau P., Donnet S., Galewski T., Robin S. (2026), *Inferring the presence and abundance of rare waterbirds species from scarce data*. [arXiv:2602.10673](https://arxiv.org/abs/2602.10673)
 
 - Guillot P., Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2026). *Online robust covariance matrix estimation and outlier detection*. [arXiv:2601.03957](https://arxiv.org/abs/2601.03957).
 
 - Bonnet, A., Robin, S. (2025). *A Markov switching discrete-time Hawkes process: application to the monitoring of bats behavior*. [arXiv:2507.20153](https://arxiv.org/pdf/2507.20153).
-
-- Metodiev, M., Perrot-Dockès, M., Ouadah, S., Fosdick, B. K., Robin, S., Latouche, P., Raftery, A. E. (2024). *A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates*. [arXiv:2411.04520](https://arxiv.org/pdf/2411.04520).
 
 - Dion-Blanc, C., Hawat, D., Lebarbier, E., & Robin, S. (2024). *Multiple change-point detection for Poisson processes*. [arXiv:2302.09103](https://arxiv.org/abs/2302.09103). 
 
@@ -33,15 +29,23 @@ output:
 
 ##### Recent papers: 
 
-- Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2026). *Online and Offline Robust Multivariate Linear Regression*. To appear in Computational Statistics and Data Analysis. [arXiv:2404.19496](https://arxiv.org/abs/2404.19496).
+- Metodiev, M., Perrot-Dockès, M., Ouadah, S., Fosdick, B. K., Robin, S., Latouche, P., Raftery, A. E. (2024). *A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates*. 
+[arXiv:2411.04520](https://arxiv.org/pdf/2411.04520).
+To appear in [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/ = ). 
 
-- Stoehr, J., Robin, S. (2026). *Composite likelihood inference for the Poisson log-normal model*. To appear in [Statistics and Computing](https://link.springer.com/article/10.1007/s11222-025-10797-2). [arXiv:2402.14390](https://arxiv.org/abs/2402.14390). 
+- Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2026). *Online and Offline Robust Multivariate Linear Regression*. 
+[arXiv:2404.19496](https://arxiv.org/abs/2404.19496). 
+To appear in [Computational Statistics and Data Analysis](https://www.sciencedirect.com/journal/computational-statistics-and-data-analysis). 
+
+- Stoehr, J., Robin, S. (2026). *Composite likelihood inference for the Poisson log-normal model*. [Statistics and Computing, 36(1), 55](https://link.springer.com/article/10.1007/s11222-025-10797-2). [arXiv.2402.14390](https://arxiv.org/abs/2402.14390) 
 
 - Le Minh, T., Donnet, S., Massol, F., & Robin, S. (2025). *Hoeffding-type decomposition for U-statistics on bipartite networks*. [Electronic Journal of Statistics, (9) 2829–2875](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-1/Hoeffding-type-decomposition-for-U-statistics-on-bipartite-networks/10.1214/25-EJS2402.full). [arXiv:2308.14518](https://arxiv.org/abs/2308.14518).
 
 - Godichon-Baggioni, A., & Robin, S. (2024). *A robust model-based clustering based on the geometric median and the Median Covariation Matrix*. [Statistics and Computing 34-55](https://link.springer.com/article/10.1007/s11222-023-10362-9). [arXiv:2211.08131](https://arxiv.org/abs/2211.08131).
 
-- Cairo, M., Monnet, A. C., Robin, S., Porcher, E., & Fontaine, C. (2024). *Identifying pesticide mixtures at country-wide scale*. [HAL-03815557](https://hal.science/hal-03815557v3), [Peer Community Journal](https://peercommunityjournal.org/articles/10.24072/pcjournal.472/). 
+- Cairo, M., Monnet, A. C., Robin, S., Porcher, E., & Fontaine, C. (2024). *Identifying pesticide mixtures at country-wide scale*. 
+[Peer Community Journal](https://peercommunityjournal.org/articles/10.24072/pcjournal.472/). 
+[HAL-03815557](https://hal.science/hal-03815557v3).
 
 - Ouadah, S., Latouche, P., & Robin, S. (2022). *Motif-based tests for bipartite networks*. [Electronic Journal of Statistics, 16(1), 293-330](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-1/Motif-based-tests-for-bipartite-networks/10.1214/21-EJS1944.full). 
 [arXiv:2101.11381](https://arxiv.org/abs/2101.11381).
@@ -52,7 +56,7 @@ output:
 [arXiv:2007.14299](https://arxiv.org/abs/2007.14299).
 
 - Donnet, S., & Robin, S. (2021). *Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates*. [Journal of the Royal Statistical Society Series C: Applied Statistics, 70(4), 858-885](https://academic.oup.com/jrsssc/article/70/5/1230/7033983?login=false). 
-[arXiv:1707.07971 (unpublished complete version)](https://arxiv.org/abs/1707.07971).
+(unpublished complete version :[arXiv:1707.07971 ](https://arxiv.org/abs/1707.07971)).
 [arXiv:1907.09771](https://arxiv.org/abs/1907.09771).
 
 - Chiquet, J., Mariadassou, M., & Robin, S. (2021). *The Poisson-lognormal model as a versatile framework for the joint analysis of species abundances*. [Frontiers in Ecology and Evolution, 9, 588292](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.588292/full). 
