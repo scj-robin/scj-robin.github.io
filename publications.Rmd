@@ -31,7 +31,7 @@ output:
 
 - Metodiev, M., Perrot-Dockès, M., Ouadah, S., Fosdick, B. K., Robin, S., Latouche, P., Raftery, A. E. (2024). *A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates*. 
 [arXiv:2411.04520](https://arxiv.org/pdf/2411.04520).
-To appear in [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/ = ). 
+To appear in [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/). 
 
 - Godichon-Baggioni, A., Robin, S., Sansonnet, L. (2026). *Online and Offline Robust Multivariate Linear Regression*. 
 [arXiv:2404.19496](https://arxiv.org/abs/2404.19496). 
