@@ -33,27 +33,11 @@ Notions fondamentales de probabilités et statistique, connaissance du langage R
 
 ----
 
-### Déroulement pour l'année 2025-26
+### Déroulement pour l'année 2026-27
 
 #### Planning
 
-Les enseignements auront lieu les **lundis matin de 9h00 à 12h00** 
-
-Les cours et les séances de TD se tiendront 
-
-* en **salle 24-34/103** jusqu'au 23 février, 
-* puis en **salle 14-24/107** à partir du 09 mars.
-
-<!-- Les **séances de TD** auront lieu les 26 janvier (salle Atrium 123), 16 février (salle Atrium 115) et 23 mars (salle Atrium 115). -->
-
-Le planning est également disponible [ici](https://ms2a.lpsm.paris/enseignements/agenda/). 
-
 #### Examen final
-
-L'examen final aura lieu le **lundi 30 mars de 10h à 12h** en salle 14-24/107.
-
-Les notes de cours sur papier et une calculatrice y seront autorisées, à l'exclusion de tout autre appareil électronique (tablette \& téléphone compris).
-
 
 ----
 
@@ -65,77 +49,16 @@ et les supports d'une série de cours doctoraux sur certains des modèles prése
 
 #### Exemples présentés en cours
 
-**Cours 1 : ** Rappel sur les modèles linéaires généralisés \
-[Vitesse de courses d'herbivores et de carnivores](examples/CarniHerbiLM.html), 
-[Présence/absence de flétan en mer de Barents](examples/BarentsGLMbernoulli.html), 
-[Nombre de partenaires chez une espèce de crabe](examples/HorseshoeGLMpoisson.html)
-
-**Cours 2 :** Modèles à variables latentes \
-[Présence et abondance de la morue en mer de Barents](examples/BarentsGLMzip.html), 
-[Evolution de la masse des mammifères carnivores](examples/CarnivoreBodymass.html), 
-[Abondance de la plie en mer de Barens (avec surdispersion)](examples/BarentsGLMnegbin.html) 
-
-**Cours 3 :** Modèles de Markov caché \
-[Déplacement d'un élan](examples/ElkMovementFull.html), 
-[Déplacement d'un zèbre](examples/PEL19-zebra.html) 
-
-**Cours 4 :** Modèles gaussiens multivariés \
-[ACP pour des traits morphologiques](examples/CESTES-PCA.html), 
-[ACP phylogénétique pour des traits morphologiques](examples/Lizards-PhyloPCA.html) ; \
-Modèles pour l'écologie des communautés \
-[Modèle de distribution jointe d'espèces](examples/BarentsPLNintro.html), 
-[Modèle de réseau d'interactions](examples/KarateSBM.html), 
-
-**Cours 5 :** Modèles de réseaux d'interactions \
-[Modèle à blocs stochastiques (SBM) entre espèces d'arbres](examples/TreeInteractions-SBM.html), 
-[Modèle à blocs latents (LBM) entre espèces d'arbres et de champignons](examples/FungiTreeInteractions-LBM.html)  ; \
-Modèles de distribution jointe d'espèces \
-[Modèle Poisson log-normal (PLN) pour des espèces de poisson](examples/BarentsPLN.html) 
-
-**Cours 6 :** Modèle Poisson log-normal : extensions \
-[Réduction de dimension (ACP)](examples/BarentsPLNacp.html), 
-[Inférence de réseau](examples/BarentsPLNnetwork.html) 
-
-<!-- ####### Données de réseaux -->
-
-<!-- ####### Données d'abondances -->
-
-#### TD : Sujets et données 
-
-**TD1 :** Modélisation d'abondance par des modèles de Poisson avec surcroit de zéros
-
-* Le [sujet](td/TD1.pdf) et les [données](td/GoldenRedfish.csv).
-
-**TD2 :** Analyse d’un déplacement animal par chaîne de Markov cachée
-
-* Le [sujet](td/TD2.pdf) et les [données](td/dryad_zebra.csv).
-
-* Le code pour la récurrence forward-backward en [R](td/Mouvement-HMM-FW.R) et en [python](td/Mouvement-HMM-FW.ipynb).
-
-**TD3 :** Structure d’un réseau trophique
-
-* Le [sujet](td/TD3.pdf), les [données](td/chilean_TI.csv) et les [informations supplémentaires](td/chilean_metadata.csv).
-
-**TD4 :** Estimation de la richesse spécifique par modèle de mélange
-
-* Le [sujet](td/TD4.pdf), les [données](td/microbial.csv) et les [données simulées](td/simul-n1000-K3-seed1.csv).
-
-*Rendu des travaux*
-
-* Les travaux devront être réalisés uniquement en binôme ou en trinôme.
-
-* Le code devra être commenté, notamment les lignes en lien direct avec les questions formelles du sujet.
-
-* Le compte-rendu devra être envoyé par mail le lundi 23 mars à 12h30, au plus tard.
-
-* Seuls les travaux des binômes ou trinômes **effectivement présents** lors de cette séance seront acceptés.
-
+#### TD : Sujets et données
 
 ----
 
 ### Annales des examens passés
 
-[Sujet](https://scj-robin.github.io/examples/Examen2023-Sujet.pdf) et [Corrigé](https://scj-robin.github.io/examples/Examen2023-Corrige.pdf) 2022-23 
+<!--[Sujet](https://scj-robin.github.io/exams/Examen2023-Sujet.pdf) et [Corrigé](https://scj-robin.github.io/exams/Examen2023-Corrige.pdf) 2022-23-->
 
-[Sujet](https://scj-robin.github.io/examples/Examen2025-Sujet.pdf) et [Corrigé](https://scj-robin.github.io/examples/Examen2025-Corrige.pdf) 2024-25 
+[Sujet](https://scj-robin.github.io/exams/Examen2025-Sujet.pdf) et [Corrigé](https://scj-robin.github.io/exams/Examen2025-Corrige.pdf) 2024-25 
+
+[Sujet](https://scj-robin.github.io/exams/Examen2026-Sujet.pdf) et [Corrigé](https://scj-robin.github.io/exams/Examen2026-Corrige.pdf) 2025-26 
+
 

@@ -13,7 +13,7 @@
 
 <title>Modèles à variables latentes pour l’écologie</title>
 
-<script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.31/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -375,28 +375,13 @@ langage R.</p>
 </ul>
 <hr />
 </div>
-<div id="déroulement-pour-lannée-2025-26" class="section level3">
-<h3>Déroulement pour l’année 2025-26</h3>
+<div id="déroulement-pour-lannée-2026-27" class="section level3">
+<h3>Déroulement pour l’année 2026-27</h3>
 <div id="planning" class="section level4">
 <h4>Planning</h4>
-<p>Les enseignements auront lieu les <strong>lundis matin de 9h00 à
-12h00</strong></p>
-<p>Les cours et les séances de TD se tiendront</p>
-<ul>
-<li>en <strong>salle 24-34/103</strong> jusqu’au 23 février,</li>
-<li>puis en <strong>salle 14-24/107</strong> à partir du 09 mars.</li>
-</ul>
-<!-- Les **séances de TD** auront lieu les 26 janvier (salle Atrium 123), 16 février (salle Atrium 115) et 23 mars (salle Atrium 115). -->
-<p>Le planning est également disponible <a
-href="https://ms2a.lpsm.paris/enseignements/agenda/">ici</a>.</p>
 </div>
 <div id="examen-final" class="section level4">
 <h4>Examen final</h4>
-<p>L’examen final aura lieu le <strong>lundi 30 mars de 10h à
-12h</strong> en salle 14-24/107.</p>
-<p>Les notes de cours sur papier et une calculatrice y seront
-autorisées, à l’exclusion de tout autre appareil électronique (tablette
-&amp; téléphone compris).</p>
 <hr />
 </div>
 <div id="supports-de-cours" class="section level4">
@@ -412,102 +397,25 @@ href="https://scj-robin.github.io/lecture-slides.html">ici</a>.</p>
 </div>
 <div id="exemples-présentés-en-cours" class="section level4">
 <h4>Exemples présentés en cours</h4>
-<p><strong>Cours 1 : </strong> Rappel sur les modèles linéaires
-généralisés<br />
-<a href="examples/CarniHerbiLM.html">Vitesse de courses d’herbivores et
-de carnivores</a>, <a
-href="examples/BarentsGLMbernoulli.html">Présence/absence de flétan en
-mer de Barents</a>, <a href="examples/HorseshoeGLMpoisson.html">Nombre
-de partenaires chez une espèce de crabe</a></p>
-<p><strong>Cours 2 :</strong> Modèles à variables latentes<br />
-<a href="examples/BarentsGLMzip.html">Présence et abondance de la morue
-en mer de Barents</a>, <a
-href="examples/CarnivoreBodymass.html">Evolution de la masse des
-mammifères carnivores</a>, <a
-href="examples/BarentsGLMnegbin.html">Abondance de la plie en mer de
-Barens (avec surdispersion)</a></p>
-<p><strong>Cours 3 :</strong> Modèles de Markov caché<br />
-<a href="examples/ElkMovementFull.html">Déplacement d’un élan</a>, <a
-href="examples/PEL19-zebra.html">Déplacement d’un zèbre</a></p>
-<p><strong>Cours 4 :</strong> Modèles gaussiens multivariés<br />
-<a href="examples/CESTES-PCA.html">ACP pour des traits
-morphologiques</a>, <a href="examples/Lizards-PhyloPCA.html">ACP
-phylogénétique pour des traits morphologiques</a> ;<br />
-Modèles pour l’écologie des communautés<br />
-<a href="examples/BarentsPLNintro.html">Modèle de distribution jointe
-d’espèces</a>, <a href="examples/KarateSBM.html">Modèle de réseau
-d’interactions</a>,</p>
-<p><strong>Cours 5 :</strong> Modèles de réseaux d’interactions<br />
-<a href="examples/TreeInteractions-SBM.html">Modèle à blocs
-stochastiques (SBM) entre espèces d’arbres</a>, <a
-href="examples/FungiTreeInteractions-LBM.html">Modèle à blocs latents
-(LBM) entre espèces d’arbres et de champignons</a> ;<br />
-Modèles de distribution jointe d’espèces<br />
-<a href="examples/BarentsPLN.html">Modèle Poisson log-normal (PLN) pour
-des espèces de poisson</a></p>
-<p><strong>Cours 6 :</strong> Modèle Poisson log-normal :
-extensions<br />
-<a href="examples/BarentsPLNacp.html">Réduction de dimension (ACP)</a>,
-<a href="examples/BarentsPLNnetwork.html">Inférence de réseau</a></p>
-<!-- ####### Données de réseaux -->
-<!-- ####### Données d'abondances -->
 </div>
 <div id="td-sujets-et-données" class="section level4">
 <h4>TD : Sujets et données</h4>
-<p><strong>TD1 :</strong> Modélisation d’abondance par des modèles de
-Poisson avec surcroit de zéros</p>
-<ul>
-<li>Le <a href="td/TD1.pdf">sujet</a> et les <a
-href="td/GoldenRedfish.csv">données</a>.</li>
-</ul>
-<p><strong>TD2 :</strong> Analyse d’un déplacement animal par chaîne de
-Markov cachée</p>
-<ul>
-<li><p>Le <a href="td/TD2.pdf">sujet</a> et les <a
-href="td/dryad_zebra.csv">données</a>.</p></li>
-<li><p>Le code pour la récurrence forward-backward en <a
-href="td/Mouvement-HMM-FW.R">R</a> et en <a
-href="td/Mouvement-HMM-FW.ipynb">python</a>.</p></li>
-</ul>
-<p><strong>TD3 :</strong> Structure d’un réseau trophique</p>
-<ul>
-<li>Le <a href="td/TD3.pdf">sujet</a>, les <a
-href="td/chilean_TI.csv">données</a> et les <a
-href="td/chilean_metadata.csv">informations supplémentaires</a>.</li>
-</ul>
-<p><strong>TD4 :</strong> Estimation de la richesse spécifique par
-modèle de mélange</p>
-<ul>
-<li>Le <a href="td/TD4.pdf">sujet</a>, les <a
-href="td/microbial.csv">données</a> et les <a
-href="td/simul-n1000-K3-seed1.csv">données simulées</a>.</li>
-</ul>
-<p><em>Rendu des travaux</em></p>
-<ul>
-<li><p>Les travaux devront être réalisés uniquement en binôme ou en
-trinôme.</p></li>
-<li><p>Le code devra être commenté, notamment les lignes en lien direct
-avec les questions formelles du sujet.</p></li>
-<li><p>Le compte-rendu devra être envoyé par mail le lundi 23 mars à
-12h30, au plus tard.</p></li>
-<li><p>Seuls les travaux des binômes ou trinômes <strong>effectivement
-présents</strong> lors de cette séance seront acceptés.</p></li>
-</ul>
 <hr />
 </div>
 </div>
 <div id="annales-des-examens-passés" class="section level3">
 <h3>Annales des examens passés</h3>
+<!--[Sujet](https://scj-robin.github.io/exams/Examen2023-Sujet.pdf) et [Corrigé](https://scj-robin.github.io/exams/Examen2023-Corrige.pdf) 2022-23-->
 <p><a
-href="https://scj-robin.github.io/examples/Examen2023-Sujet.pdf">Sujet</a>
+href="https://scj-robin.github.io/exams/Examen2025-Sujet.pdf">Sujet</a>
 et <a
-href="https://scj-robin.github.io/examples/Examen2023-Corrige.pdf">Corrigé</a>
-2022-23</p>
-<p><a
-href="https://scj-robin.github.io/examples/Examen2025-Sujet.pdf">Sujet</a>
-et <a
-href="https://scj-robin.github.io/examples/Examen2025-Corrige.pdf">Corrigé</a>
+href="https://scj-robin.github.io/exams/Examen2025-Corrige.pdf">Corrigé</a>
 2024-25</p>
+<p><a
+href="https://scj-robin.github.io/exams/Examen2026-Sujet.pdf">Sujet</a>
+et <a
+href="https://scj-robin.github.io/exams/Examen2026-Corrige.pdf">Corrigé</a>
+2025-26</p>
 </div>
 </div>
 
