@@ -1,5 +1,6 @@
 ---
-title: "Other teaching"
+#title: "Other teachings"
+title: "Analyzing Ecological Networks"
 output: 
   html_document:
    toc: false

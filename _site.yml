@@ -37,9 +37,6 @@ navbar:
       - text: "Modèles statistiques pour l'écologie"
         href: cours-modeles-stat-ecologie.html
         icon: fa-file-pdf-o
-      - text: "Analyzing Ecological Networks"
-        href: teaching-others.html
-        icon: fa-file-pdf-o
              
 output:
   html_document:
