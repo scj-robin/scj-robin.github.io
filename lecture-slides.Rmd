@@ -17,13 +17,13 @@ output:
 
 The objective of this five-day course (organized by [S. Kefi](https://skefi.github.io/), [S. Donnet](https://sophiedonnet.github.io/) and [C. Coux](https://github.com/CamilleCoux)) is to train young researchers in analyzing ecological network data. The course covers a general introduction to networks, classical metrics (including modularity, nesteness, clustering), null models, generative models (including SBM), multilayer networks, as well as an overview of newer techniques (such as embedding). Each topic is explored through lectures followed by practicals.
 
-The course is co-organized by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) and the [ANR ECONET](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html]), and benefits from funding from the [PEPR Maths-Vives](https://www.maths-vives.fr/en/].
+The course is co-organized by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) and the [ANR ECONET](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html]), and benefits from funding from the [PEPR Maths-Vives](https://www.maths-vives.fr/en/).
 
 The program and teaching material is [available hear](https://econetoolbox.github.io/).
 
 ## Statistical inference for latente variable models
 
-The course 'Statistical inference of incomplete data models to analyse ecological networks' was given during the SanDAL Winter School on Mathematical Statistics, University of Luxembourg (Dec’20):
+The course 'Statistical inference of incomplete data models to analyse ecological networks' was given during the [SanDAL Winter School on Mathematical Statistics](https://sandal.uni.lu/winter-school/), University of Luxembourg (Dec’20):
 
   1 - [Models with latent variables in ecology](slides/Part10-Main-Lux2012.pdf)
   
