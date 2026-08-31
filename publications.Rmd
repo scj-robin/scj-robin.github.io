@@ -28,7 +28,7 @@ output:
 ##### Recent papers: 
 
 - Dion-Blanc, C., Hawat, D., Lebarbier, E., & Robin, S. (2026). *Multiple change-point detection for Poisson processes*. [arXiv:2302.09103](https://arxiv.org/abs/2302.09103), 
-to appear in [Computational Statistics and Data Analysis](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.csda.2026.108464/1/010201a057e4da32-4ecab762-48ae-4f91-8912-2d268c10de38-000000/xfR6HOg34ypme5jtziShzOYHruo=473). 
+to appear in [Computational Statistics and Data Analysis](https://www.sciencedirect.com/science/article/pii/S0167947326001337). 
 
 - Metodiev, M., Perrot-Dockès, M., Ouadah, S., Fosdick, B. K., Robin, S., Latouche, P., Raftery, A. E. (2026). *A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates*. 
 [Annals of Applied Statistics, 20(2): 1736--1765](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-20/issue-2/A-structured-estimator-for-large-covariance-matrices-in-the-presence/10.1214/26-AOAS2183.short). 
